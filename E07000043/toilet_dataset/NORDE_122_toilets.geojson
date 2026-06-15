@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NORDE_122_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Putsborough beach", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 13, "park_offical_id": "NORDE_122" }, "geometry": { "type": "Point", "coordinates": [ -4.221556633, 51.144128418 ] } }
+]
+}

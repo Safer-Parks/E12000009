@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BOUCH_17_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 59, "park_offical_id": "BOUCH_17" }, "geometry": { "type": "Point", "coordinates": [ -1.93872382, 50.68851232 ] } }
+]
+}

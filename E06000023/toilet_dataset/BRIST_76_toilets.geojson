@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BRIST_76_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Old Market Cafe 39 West Street BS2 0BZ", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:00-15:00", "Tue": "08:00-15:00", "Wed": "08:00-15:00", "Thu": "08:00-15:00", "Fri": "08:00-15:00", "Sat": "08:00-15:00", "Sun": "Closed", "index_right": 233, "park_offical_id": "BRIST_76" }, "geometry": { "type": "Point", "coordinates": [ -2.578227818, 51.457075495 ] } },
+{ "type": "Feature", "properties": { "name": " The Trinity Centre Trinity Road Bristol  BS2 0NW", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 233, "park_offical_id": "BRIST_76" }, "geometry": { "type": "Point", "coordinates": [ -2.576006949, 51.458028382 ] } },
+{ "type": "Feature", "properties": { "name": "The Exchange 72 73 Old Market St Bristol BS2 0EJ ", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 233, "park_offical_id": "BRIST_76" }, "geometry": { "type": "Point", "coordinates": [ -2.582782209, 51.455575564 ] } },
+{ "type": "Feature", "properties": { "name": "Barton Hill Settlement", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 233, "park_offical_id": "BRIST_76" }, "geometry": { "type": "Point", "coordinates": [ -2.563663423, 51.45622146 ] } },
+{ "type": "Feature", "properties": { "name": "Barton Hill Settlement ", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 233, "park_offical_id": "BRIST_76" }, "geometry": { "type": "Point", "coordinates": [ -2.563387156, 51.456226474 ] } }
+]
+}

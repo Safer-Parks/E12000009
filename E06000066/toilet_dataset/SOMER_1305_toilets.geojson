@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SOMER_1305_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Harbour Road", "payment_info": "Cost unknown", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 137, "park_offical_id": "SOMER_1305" }, "geometry": { "type": "Point", "coordinates": [ -3.328937888, 51.181466584 ] } }
+]
+}

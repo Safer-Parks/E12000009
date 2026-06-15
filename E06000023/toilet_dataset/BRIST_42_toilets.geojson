@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BRIST_42_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Spielman Centre Arnos Vale Cemetery", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "10:00-16:00", "Tue": "10:00-16:00", "Wed": "10:00-16:00", "Thu": "10:00-16:00", "Fri": "10:00-16:00", "Sat": "10:00-16:00", "Sun": "10:00-16:00", "index_right": 195, "park_offical_id": "BRIST_42" }, "geometry": { "type": "Point", "coordinates": [ -2.566198111, 51.441456323 ] } },
+{ "type": "Feature", "properties": { "name": "Burger King St Philips Causeway BS4 3BD", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "10:00-22:00", "Tue": "10:00-22:00", "Wed": "10:00-22:00", "Thu": "10:00-22:00", "Fri": "10:00-00:00", "Sat": "09:00-00:00", "Sun": "10:00-22:00", "index_right": 195, "park_offical_id": "BRIST_42" }, "geometry": { "type": "Point", "coordinates": [ -2.561415732, 51.442358908 ] } },
+{ "type": "Feature", "properties": { "name": "The Star  Dove 7578 St Lukes Road BS3 4RY", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Closed", "Tue": "Closed", "Wed": "12:00-23:00", "Thu": "12:00-23:00", "Fri": "12:00-23:00", "Sat": "12:00-23:00", "Sun": "12:00-17:00", "index_right": 195, "park_offical_id": "BRIST_42" }, "geometry": { "type": "Point", "coordinates": [ -2.582143755, 51.441409248 ] } },
+{ "type": "Feature", "properties": { "name": "Wholesale Fruit Centre", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 195, "park_offical_id": "BRIST_42" }, "geometry": { "type": "Point", "coordinates": [ -2.569805682, 51.44506405 ] } }
+]
+}

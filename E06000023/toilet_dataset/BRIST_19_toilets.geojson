@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BRIST_19_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Easton Leisure Centre Thrissell Street BS5 0SW", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "06:30-22:30", "Tue": "06:30-22:30", "Wed": "06:30-22:30", "Thu": "06:30-22:30", "Fri": "06:30-22:30", "Sat": "07:30-20:00", "Sun": "07:00-21:00", "index_right": 82, "park_offical_id": "BRIST_19" }, "geometry": { "type": "Point", "coordinates": [ -2.573905932, 51.4597419 ] } },
+{ "type": "Feature", "properties": { "name": "Old Market Cafe 39 West Street BS2 0BZ", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:00-15:00", "Tue": "08:00-15:00", "Wed": "08:00-15:00", "Thu": "08:00-15:00", "Fri": "08:00-15:00", "Sat": "08:00-15:00", "Sun": "Closed", "index_right": 82, "park_offical_id": "BRIST_19" }, "geometry": { "type": "Point", "coordinates": [ -2.578227818, 51.457075495 ] } },
+{ "type": "Feature", "properties": { "name": " The Trinity Centre Trinity Road Bristol  BS2 0NW", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 82, "park_offical_id": "BRIST_19" }, "geometry": { "type": "Point", "coordinates": [ -2.576006949, 51.458028382 ] } },
+{ "type": "Feature", "properties": { "name": "Junction 3 Library BS5 0FJ ", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 82, "park_offical_id": "BRIST_19" }, "geometry": { "type": "Point", "coordinates": [ -2.573035061, 51.465956142 ] } },
+{ "type": "Feature", "properties": { "name": "Tasty Corner 1 Oxford Place BS5 0NR", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 82, "park_offical_id": "BRIST_19" }, "geometry": { "type": "Point", "coordinates": [ -2.569644749, 51.465859209 ] } }
+]
+}

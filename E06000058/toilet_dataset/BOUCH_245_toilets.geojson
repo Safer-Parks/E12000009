@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BOUCH_245_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Eastcliff Zigzag", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 87, "park_offical_id": "BOUCH_245" }, "geometry": { "type": "Point", "coordinates": [ -1.866366863, 50.718152092 ] } },
+{ "type": "Feature", "properties": { "name": "Bournemouth Coach Station ", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 87, "park_offical_id": "BOUCH_245" }, "geometry": { "type": "Point", "coordinates": [ -1.864693165, 50.72677477 ] } }
+]
+}

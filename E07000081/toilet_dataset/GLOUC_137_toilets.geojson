@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "GLOUC_137_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gloucester Rail Station", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 11, "park_offical_id": "GLOUC_137" }, "geometry": { "type": "Point", "coordinates": [ -2.238654255, 51.865467939 ] } },
+{ "type": "Feature", "properties": { "name": "Gloucester Transport Hub Bus Station", "payment_info": "20p", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 11, "park_offical_id": "GLOUC_137" }, "geometry": { "type": "Point", "coordinates": [ -2.240797877, 51.86501091 ] } },
+{ "type": "Feature", "properties": { "name": "Closed", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 11, "park_offical_id": "GLOUC_137" }, "geometry": { "type": "Point", "coordinates": [ -2.248107, 51.87258326 ] } }
+]
+}

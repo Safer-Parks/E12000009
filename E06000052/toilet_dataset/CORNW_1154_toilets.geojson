@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CORNW_1154_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Trevithick Market Toilets", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 60, "park_offical_id": "CORNW_1154" }, "geometry": { "type": "Point", "coordinates": [ -5.300338983, 50.214646886 ] } },
+{ "type": "Feature", "properties": { "name": "Camborne Business Hub", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 60, "park_offical_id": "CORNW_1154" }, "geometry": { "type": "Point", "coordinates": [ -5.293328762, 50.215441831 ] } }
+]
+}

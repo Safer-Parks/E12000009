@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NORDE_33_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Braunton carpark", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 93, "park_offical_id": "NORDE_33" }, "geometry": { "type": "Point", "coordinates": [ -4.162487984, 51.108286298 ] } }
+]
+}

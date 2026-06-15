@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BRIST_252_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "A4 Portway Park  Ride", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "06:00-21:40", "Tue": "06:00-21:40", "Wed": "06:00-21:40", "Thu": "06:00-21:40", "Fri": "06:00-21:40", "Sat": "06:00-21:40", "Sun": "09:00-18:40", "index_right": 111, "park_offical_id": "BRIST_252" }, "geometry": { "type": "Point", "coordinates": [ -2.688442469, 51.489724093 ] } },
+{ "type": "Feature", "properties": { "name": "Cafe on the Square", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 111, "park_offical_id": "BRIST_252" }, "geometry": { "type": "Point", "coordinates": [ -2.647619247, 51.487945411 ] } },
+{ "type": "Feature", "properties": { "name": "Ridingleaze Medical Centre", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 111, "park_offical_id": "BRIST_252" }, "geometry": { "type": "Point", "coordinates": [ -2.659748197, 51.500411421 ] } }
+]
+}

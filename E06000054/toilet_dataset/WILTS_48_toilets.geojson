@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WILTS_48_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Market Place", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 225, "park_offical_id": "WILTS_48" }, "geometry": { "type": "Point", "coordinates": [ -2.138643265, 51.371686609 ] } },
+{ "type": "Feature", "properties": { "name": "Sainsburys ", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Closed", "Tue": "Closed", "Wed": "Closed", "Thu": "Closed", "Fri": "Closed", "Sat": "Closed", "Sun": "10:00-16:00", "index_right": 225, "park_offical_id": "WILTS_48" }, "geometry": { "type": "Point", "coordinates": [ -2.140052319, 51.374807605 ] } }
+]
+}

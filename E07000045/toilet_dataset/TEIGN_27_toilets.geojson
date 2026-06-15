@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "TEIGN_27_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Decoy", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "08:00-19:00", "Tue": "08:00-19:00", "Wed": "08:00-19:00", "Thu": "08:00-19:00", "Fri": "08:00-19:00", "Sat": "08:00-19:00", "Sun": "08:00-19:00", "index_right": 32, "park_offical_id": "TEIGN_27" }, "geometry": { "type": "Point", "coordinates": [ -3.600924611, 50.521266563 ] } },
+{ "type": "Feature", "properties": { "name": "Courtney Park", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 32, "park_offical_id": "TEIGN_27" }, "geometry": { "type": "Point", "coordinates": [ -3.60017834, 50.52971394 ] } },
+{ "type": "Feature", "properties": { "name": "Newfoundland Way", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "08:00-19:00", "Tue": "08:00-19:00", "Wed": "08:00-19:00", "Thu": "08:00-19:00", "Fri": "08:00-19:00", "Sat": "08:00-19:00", "Sun": "08:00-19:00", "index_right": 32, "park_offical_id": "TEIGN_27" }, "geometry": { "type": "Point", "coordinates": [ -3.612340093, 50.52902175 ] } },
+{ "type": "Feature", "properties": { "name": "Cricketfield Road", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "08:00-19:00", "Tue": "08:00-19:00", "Wed": "08:00-19:00", "Thu": "08:00-19:00", "Fri": "08:00-19:00", "Sat": "08:00-19:00", "Sun": "08:00-19:00", "index_right": 32, "park_offical_id": "TEIGN_27" }, "geometry": { "type": "Point", "coordinates": [ -3.606814742, 50.531746335 ] } }
+]
+}

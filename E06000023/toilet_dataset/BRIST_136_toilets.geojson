@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BRIST_136_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "East Trees Health Centre", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 42, "park_offical_id": "BRIST_136" }, "geometry": { "type": "Point", "coordinates": [ -2.562475204, 51.470520686 ] } },
+{ "type": "Feature", "properties": { "name": "Junction 3 Library BS5 0FJ ", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 42, "park_offical_id": "BRIST_136" }, "geometry": { "type": "Point", "coordinates": [ -2.573035061, 51.465956142 ] } },
+{ "type": "Feature", "properties": { "name": "Tasty Corner 1 Oxford Place BS5 0NR", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 42, "park_offical_id": "BRIST_136" }, "geometry": { "type": "Point", "coordinates": [ -2.569644749, 51.465859209 ] } },
+{ "type": "Feature", "properties": { "name": "Este kitchen 7 Greenbank Road BS5 6EZ", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 42, "park_offical_id": "BRIST_136" }, "geometry": { "type": "Point", "coordinates": [ -2.560723722, 51.467946867 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BRIST_192_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Boston Tea Party 156 Cheltenham Road Cotham BS6 5RL ", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:00-17:00", "Tue": "08:00-17:00", "Wed": "08:00-17:00", "Thu": "08:00-17:00", "Fri": "08:00-17:00", "Sat": "08:00-17:00", "Sun": "09:00-17:00", "index_right": 85, "park_offical_id": "BRIST_192" }, "geometry": { "type": "Point", "coordinates": [ -2.590013146, 51.465565087 ] } },
+{ "type": "Feature", "properties": { "name": "St Pauls Community Sports Academy St Pauls Community Sports Academy Newfoundland Road Bristol BS2 9NH ", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 85, "park_offical_id": "BRIST_192" }, "geometry": { "type": "Point", "coordinates": [ -2.580496967, 51.462379097 ] } },
+{ "type": "Feature", "properties": { "name": "Better Food Company", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 85, "park_offical_id": "BRIST_192" }, "geometry": { "type": "Point", "coordinates": [ -2.578619421, 51.468843178 ] } },
+{ "type": "Feature", "properties": { "name": "The Salvation Army Bristol Citadel", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 85, "park_offical_id": "BRIST_192" }, "geometry": { "type": "Point", "coordinates": [ -2.588721385, 51.464362682 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TEIGN_53_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Newton Abbot market", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 54, "park_offical_id": "TEIGN_53" }, "geometry": { "type": "Point", "coordinates": [ -3.6110134, 50.5310798 ] } },
+{ "type": "Feature", "properties": { "name": "Courtney Park", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 54, "park_offical_id": "TEIGN_53" }, "geometry": { "type": "Point", "coordinates": [ -3.60017834, 50.52971394 ] } },
+{ "type": "Feature", "properties": { "name": "Cricketfield Road", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "08:00-19:00", "Tue": "08:00-19:00", "Wed": "08:00-19:00", "Thu": "08:00-19:00", "Fri": "08:00-19:00", "Sat": "08:00-19:00", "Sun": "08:00-19:00", "index_right": 54, "park_offical_id": "TEIGN_53" }, "geometry": { "type": "Point", "coordinates": [ -3.606814742, 50.531746335 ] } }
+]
+}

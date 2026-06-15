@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BRIST_35_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Long Ashton Park and Ride Ashton Road Ashton BS3 2HB", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "05:30-22:45", "Tue": "05:30-22:45", "Wed": "05:30-22:45", "Thu": "05:30-22:45", "Fri": "05:30-22:45", "Sat": "05:30-22:45", "Sun": "Closed", "index_right": 161, "park_offical_id": "BRIST_35" }, "geometry": { "type": "Point", "coordinates": [ -2.63619372, 51.435606191 ] } },
+{ "type": "Feature", "properties": { "name": "Long Ashton Park and Ride Ashton Road Ashton BS3 2HB", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "05:30-22:45", "Tue": "05:30-22:45", "Wed": "05:30-22:45", "Thu": "05:30-22:45", "Fri": "05:30-22:45", "Sat": "05:30-22:45", "Sun": "Closed", "index_right": 161, "park_offical_id": "BRIST_35" }, "geometry": { "type": "Point", "coordinates": [ -2.63619372, 51.435606191 ] } },
+{ "type": "Feature", "properties": { "name": "Ashton Gate Limited Coffee shop Ashton Gate Stadium BS3 2EL", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:00-16:00", "Tue": "08:00-16:00", "Wed": "08:00-16:00", "Thu": "08:00-16:00", "Fri": "08:00-16:00", "Sat": "Closed", "Sun": "Closed", "index_right": 161, "park_offical_id": "BRIST_35" }, "geometry": { "type": "Point", "coordinates": [ -2.62130205, 51.439845475 ] } },
+{ "type": "Feature", "properties": { "name": "Ashton Gate coffee shop", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 161, "park_offical_id": "BRIST_35" }, "geometry": { "type": "Point", "coordinates": [ -2.621312141, 51.439837935 ] } }
+]
+}

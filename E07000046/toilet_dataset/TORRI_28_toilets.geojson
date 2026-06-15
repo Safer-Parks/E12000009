@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TORRI_28_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 23, "park_offical_id": "TORRI_28" }, "geometry": { "type": "Point", "coordinates": [ -4.2498134, 51.03931716 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 23, "park_offical_id": "TORRI_28" }, "geometry": { "type": "Point", "coordinates": [ -4.2379332, 51.0403902 ] } },
+{ "type": "Feature", "properties": { "name": "Golf links road", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 23, "park_offical_id": "TORRI_28" }, "geometry": { "type": "Point", "coordinates": [ -4.238004677, 51.040609663 ] } }
+]
+}

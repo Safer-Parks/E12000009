@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CHELT_125_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Leisure  Cheltenham Leisure Centre", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 16, "park_offical_id": "CHELT_125" }, "geometry": { "type": "Point", "coordinates": [ -2.078540325, 51.91083415 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 16, "park_offical_id": "CHELT_125" }, "geometry": { "type": "Point", "coordinates": [ -2.093346118, 51.915827537 ] } }
+]
+}

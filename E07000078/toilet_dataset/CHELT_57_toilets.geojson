@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CHELT_57_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Asda Superstore  Cheltenham", "payment_info": "1499 per 500ml of pee", "accessible": "True", "radar": "False", "women": "False", "men": "False", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 56, "park_offical_id": "CHELT_57" }, "geometry": { "type": "Point", "coordinates": [ -2.128558159, 51.890590277 ] } }
+]
+}

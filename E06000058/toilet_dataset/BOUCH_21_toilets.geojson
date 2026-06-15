@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BOUCH_21_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ashley Cross green", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 69, "park_offical_id": "BOUCH_21" }, "geometry": { "type": "Point", "coordinates": [ -1.951405917, 50.723532772 ] } },
+{ "type": "Feature", "properties": { "name": "Whitecliff", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 69, "park_offical_id": "BOUCH_21" }, "geometry": { "type": "Point", "coordinates": [ -1.955826581, 50.715964757 ] } }
+]
+}

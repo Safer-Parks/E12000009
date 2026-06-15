@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BRIST_172_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dundridge Public Conveniences Recreation Ground Dundridge Lane BS5 8SZ", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 68, "park_offical_id": "BRIST_172" }, "geometry": { "type": "Point", "coordinates": [ -2.528684735, 51.449963683 ] } },
+{ "type": "Feature", "properties": { "name": "Conham River Park", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 68, "park_offical_id": "BRIST_172" }, "geometry": { "type": "Point", "coordinates": [ -2.5347546, 51.447162 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "STROU_25_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Stroud Bedford Street Toilets", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 34, "park_offical_id": "STROU_25" }, "geometry": { "type": "Point", "coordinates": [ -2.216891523, 51.745170021 ] } },
+{ "type": "Feature", "properties": { "name": "Stroud Rail Station ", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 34, "park_offical_id": "STROU_25" }, "geometry": { "type": "Point", "coordinates": [ -2.218846637, 51.74443226 ] } },
+{ "type": "Feature", "properties": { "name": "Shmables Indoor Market", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 34, "park_offical_id": "STROU_25" }, "geometry": { "type": "Point", "coordinates": [ -2.215697765, 51.745711539 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "GLOUC_43_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 48, "park_offical_id": "GLOUC_43" }, "geometry": { "type": "Point", "coordinates": [ -2.2525464, 51.8685499 ] } },
+{ "type": "Feature", "properties": { "name": "Closed", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 48, "park_offical_id": "GLOUC_43" }, "geometry": { "type": "Point", "coordinates": [ -2.248107, 51.87258326 ] } },
+{ "type": "Feature", "properties": { "name": "Westgate shopping centre toilets", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 48, "park_offical_id": "GLOUC_43" }, "geometry": { "type": "Point", "coordinates": [ -2.25395143, 51.869346906 ] } }
+]
+}

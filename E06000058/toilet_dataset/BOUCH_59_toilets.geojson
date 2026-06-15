@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BOUCH_59_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Queens Park Golf Course", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 153, "park_offical_id": "BOUCH_59" }, "geometry": { "type": "Point", "coordinates": [ -1.850171685, 50.738417588 ] } },
+{ "type": "Feature", "properties": { "name": "PERMANENTLY CLOSED ", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "False", "men": "False", "baby_change": "False", "Mon": "Closed", "Tue": "Closed", "Wed": "Closed", "Thu": "Closed", "Fri": "Closed", "Sat": "Closed", "Sun": "Closed", "index_right": 153, "park_offical_id": "BOUCH_59" }, "geometry": { "type": "Point", "coordinates": [ -1.861822, 50.7422914 ] } }
+]
+}

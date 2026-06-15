@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BRIST_117_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "St Pauls Community Sports Academy St Pauls Community Sports Academy Newfoundland Road Bristol BS2 9NH ", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 21, "park_offical_id": "BRIST_117" }, "geometry": { "type": "Point", "coordinates": [ -2.580496967, 51.462379097 ] } },
+{ "type": "Feature", "properties": { "name": "Better Food Company", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 21, "park_offical_id": "BRIST_117" }, "geometry": { "type": "Point", "coordinates": [ -2.578619421, 51.468843178 ] } }
+]
+}

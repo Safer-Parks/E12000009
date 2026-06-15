@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BOUCH_125_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Cost unknown", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 30, "park_offical_id": "BOUCH_125" }, "geometry": { "type": "Point", "coordinates": [ -1.819258008, 50.720952808 ] } },
+{ "type": "Feature", "properties": { "name": "Fishermans Walk Public Toilets", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 30, "park_offical_id": "BOUCH_125" }, "geometry": { "type": "Point", "coordinates": [ -1.8181368, 50.7258045 ] } },
+{ "type": "Feature", "properties": { "name": "Fishermans Walk Cliff Lift Public Toilet", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 30, "park_offical_id": "BOUCH_125" }, "geometry": { "type": "Point", "coordinates": [ -1.8173547, 50.7217449 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 30, "park_offical_id": "BOUCH_125" }, "geometry": { "type": "Point", "coordinates": [ -1.823762849, 50.720943226 ] } },
+{ "type": "Feature", "properties": { "name": "Manor steps", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 30, "park_offical_id": "BOUCH_125" }, "geometry": { "type": "Point", "coordinates": [ -1.832653702, 50.720860711 ] } }
+]
+}

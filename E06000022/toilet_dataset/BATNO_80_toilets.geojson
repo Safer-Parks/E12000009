@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BATNO_80_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Moorlands Sandpits Play Area", "payment_info": "20p", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 102, "park_offical_id": "BATNO_80" }, "geometry": { "type": "Point", "coordinates": [ -2.378540039, 51.37361549 ] } }
+]
+}

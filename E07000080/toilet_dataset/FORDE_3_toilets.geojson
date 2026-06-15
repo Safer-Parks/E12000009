@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "FORDE_3_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Railway Drive car park", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "08:00-18:00", "Tue": "08:00-18:00", "Wed": "08:00-18:00", "Thu": "08:00-18:00", "Fri": "08:00-18:00", "Sat": "08:00-18:00", "Sun": "08:00-18:00", "index_right": 18, "park_offical_id": "FORDE_3" }, "geometry": { "type": "Point", "coordinates": [ -2.616312504, 51.792374593 ] } },
+{ "type": "Feature", "properties": { "name": "Coleford Library", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "10:00-14:00", "Tue": "10:00-19:00", "Wed": "10:00-17:00", "Thu": "10:00-17:00", "Fri": "10:00-19:00", "Sat": "10:00-14:00", "Sun": "Closed", "index_right": 18, "park_offical_id": "FORDE_3" }, "geometry": { "type": "Point", "coordinates": [ -2.614996434, 51.791167149 ] } }
+]
+}

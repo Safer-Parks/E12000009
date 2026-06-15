@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DORSE_512_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kingston Lacy Disabled Toilet", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 121, "park_offical_id": "DORSE_512" }, "geometry": { "type": "Point", "coordinates": [ -2.032374144, 50.811192323 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NORDE_164_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wilder Road", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "Unknown", "men": "True", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 28, "park_offical_id": "NORDE_164" }, "geometry": { "type": "Point", "coordinates": [ -4.126857519, 51.206360778 ] } }
+]
+}

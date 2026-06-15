@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "PLYMO_60_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Plymouth Coach Station Toilet", "payment_info": "030", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 105, "park_offical_id": "PLYMO_60" }, "geometry": { "type": "Point", "coordinates": [ -4.14298296, 50.373024 ] } },
+{ "type": "Feature", "properties": { "name": "Armada Way surface disabled", "payment_info": "20p", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Closed", "Tue": "Closed", "Wed": "Closed", "Thu": "Closed", "Fri": "Closed", "Sat": "Closed", "Sun": "Closed", "index_right": 105, "park_offical_id": "PLYMO_60" }, "geometry": { "type": "Point", "coordinates": [ -4.14219396, 50.37250451 ] } },
+{ "type": "Feature", "properties": { "name": "Armada Way underground public conveniences", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "07:00-19:00", "Tue": "07:00-19:00", "Wed": "07:00-19:00", "Thu": "07:00-19:00", "Fri": "07:00-19:00", "Sat": "07:00-19:00", "Sun": "07:00-19:00", "index_right": 105, "park_offical_id": "PLYMO_60" }, "geometry": { "type": "Point", "coordinates": [ -4.142700205, 50.371594549 ] } },
+{ "type": "Feature", "properties": { "name": "Plymouth rail station", "payment_info": "050", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "05:00-23:55", "Tue": "05:00-23:55", "Wed": "05:00-23:55", "Thu": "05:00-23:55", "Fri": "05:00-23:55", "Sat": "05:00-23:55", "Sun": "05:00-23:55", "index_right": 105, "park_offical_id": "PLYMO_60" }, "geometry": { "type": "Point", "coordinates": [ -4.143596683, 50.377358594 ] } }
+]
+}

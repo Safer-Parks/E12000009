@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "NORSO_42_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Weston Water Park", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 64, "park_offical_id": "NORSO_42" }, "geometry": { "type": "Point", "coordinates": [ -2.984649539, 51.351989624 ] } },
+{ "type": "Feature", "properties": { "name": "Unisex  RNLI Shop", "payment_info": "30p", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 64, "park_offical_id": "NORSO_42" }, "geometry": { "type": "Point", "coordinates": [ -2.990459204, 51.353693036 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SOUGL_18_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kings Chase Shopping Centre", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 62, "park_offical_id": "SOUGL_18" }, "geometry": { "type": "Point", "coordinates": [ -2.508525252, 51.462755845 ] } },
+{ "type": "Feature", "properties": { "name": "Sainsburys Kings Chase Shopping Centre", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 62, "park_offical_id": "SOUGL_18" }, "geometry": { "type": "Point", "coordinates": [ -2.507983446, 51.463603074 ] } },
+{ "type": "Feature", "properties": { "name": "Pizzeria Milano", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 62, "park_offical_id": "SOUGL_18" }, "geometry": { "type": "Point", "coordinates": [ -2.520115132, 51.470235859 ] } },
+{ "type": "Feature", "properties": { "name": "Moravian Road Public Toilets", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 62, "park_offical_id": "SOUGL_18" }, "geometry": { "type": "Point", "coordinates": [ -2.508058548, 51.462052315 ] } }
+]
+}

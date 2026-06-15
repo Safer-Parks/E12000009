@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TORBA_31_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Abbey Meadows Public Toilets", "payment_info": "30p", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-19:00", "Tue": "09:00-19:00", "Wed": "09:00-19:00", "Thu": "09:00-19:00", "Fri": "09:00-19:00", "Sat": "09:00-19:00", "Sun": "09:00-19:00", "index_right": 38, "park_offical_id": "TORBA_31" }, "geometry": { "type": "Point", "coordinates": [ -3.53819935, 50.462952683 ] } },
+{ "type": "Feature", "properties": { "name": "Corbyn Head Public Toilets", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-19:00", "Tue": "09:00-19:00", "Wed": "09:00-19:00", "Thu": "09:00-19:00", "Fri": "09:00-19:00", "Sat": "09:00-19:00", "Sun": "09:00-19:00", "index_right": 38, "park_offical_id": "TORBA_31" }, "geometry": { "type": "Point", "coordinates": [ -3.54135888, 50.45831744 ] } },
+{ "type": "Feature", "properties": { "name": "Torquay Sea Front Complex", "payment_info": "30p cash or card", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:00-21:00", "Tue": "08:00-21:00", "Wed": "08:00-21:00", "Thu": "08:00-21:00", "Fri": "08:00-21:00", "Sat": "08:00-21:00", "Sun": "08:00-21:00", "index_right": 38, "park_offical_id": "TORBA_31" }, "geometry": { "type": "Point", "coordinates": [ -3.532672, 50.462803 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WILTS_128_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Trowbridge Town Park", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "08:00-19:30", "Tue": "08:00-19:30", "Wed": "08:00-19:30", "Thu": "08:00-19:30", "Fri": "08:00-19:30", "Sat": "08:00-19:30", "Sun": "08:00-19:30", "index_right": 33, "park_offical_id": "WILTS_128" }, "geometry": { "type": "Point", "coordinates": [ -2.20533371, 51.31922122 ] } },
+{ "type": "Feature", "properties": { "name": "Indoor market", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 33, "park_offical_id": "WILTS_128" }, "geometry": { "type": "Point", "coordinates": [ -2.206942144, 51.319496878 ] } },
+{ "type": "Feature", "properties": { "name": "Tesco Trowbridge Extra", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "06:00-00:00", "Tue": "06:00-00:00", "Wed": "06:00-00:00", "Thu": "06:00-00:00", "Fri": "06:00-00:00", "Sat": "06:00-00:00", "Sun": "10:00-16:00", "index_right": 33, "park_offical_id": "WILTS_128" }, "geometry": { "type": "Point", "coordinates": [ -2.202769518, 51.31698786 ] } },
+{ "type": "Feature", "properties": { "name": "The Shires Shopping Centre", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 33, "park_offical_id": "WILTS_128" }, "geometry": { "type": "Point", "coordinates": [ -2.20992624, 51.320359919 ] } }
+]
+}

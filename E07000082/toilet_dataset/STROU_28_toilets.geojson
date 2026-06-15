@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "STROU_28_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "May Lane", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 37, "park_offical_id": "STROU_28" }, "geometry": { "type": "Point", "coordinates": [ -2.357667089, 51.680841374 ] } },
+{ "type": "Feature", "properties": { "name": "Dursley Library", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 37, "park_offical_id": "STROU_28" }, "geometry": { "type": "Point", "coordinates": [ -2.357254028, 51.681328654 ] } },
+{ "type": "Feature", "properties": { "name": "Sainsburys Dursley", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 37, "park_offical_id": "STROU_28" }, "geometry": { "type": "Point", "coordinates": [ -2.355081439, 51.682336459 ] } }
+]
+}

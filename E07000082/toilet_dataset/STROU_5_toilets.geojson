@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "STROU_5_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Shell services Oldbury", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 60, "park_offical_id": "STROU_5" }, "geometry": { "type": "Point", "coordinates": [ -2.313531399, 51.755096436 ] } }
+]
+}

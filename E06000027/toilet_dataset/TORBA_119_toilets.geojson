@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "TORBA_119_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brixham Harbour Public Toilets", "payment_info": "30p", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-19:00", "Tue": "09:00-19:00", "Wed": "09:00-19:00", "Thu": "09:00-19:00", "Fri": "09:00-19:00", "Sat": "09:00-19:00", "Sun": "09:00-19:00", "index_right": 11, "park_offical_id": "TORBA_119" }, "geometry": { "type": "Point", "coordinates": [ -3.51139946, 50.39779928 ] } },
+{ "type": "Feature", "properties": { "name": "Breakwater Public Toilets", "payment_info": "30p", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-19:00", "Tue": "09:00-19:00", "Wed": "09:00-19:00", "Thu": "09:00-19:00", "Fri": "09:00-19:00", "Sat": "09:00-19:00", "Sun": "09:00-19:00", "index_right": 11, "park_offical_id": "TORBA_119" }, "geometry": { "type": "Point", "coordinates": [ -3.5040139, 50.3996337 ] } },
+{ "type": "Feature", "properties": { "name": "Shoalstone Beach Public Toilets Car Park", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-19:00", "Tue": "09:00-19:00", "Wed": "09:00-19:00", "Thu": "09:00-19:00", "Fri": "09:00-19:00", "Sat": "09:00-19:00", "Sun": "09:00-19:00", "index_right": 11, "park_offical_id": "TORBA_119" }, "geometry": { "type": "Point", "coordinates": [ -3.4975927, 50.4011453 ] } },
+{ "type": "Feature", "properties": { "name": "Bank Lane Public Toilets", "payment_info": "30p can pay by card", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-19:00", "Tue": "09:00-19:00", "Wed": "09:00-19:00", "Thu": "09:00-19:00", "Fri": "09:00-19:00", "Sat": "09:00-19:00", "Sun": "09:00-19:00", "index_right": 11, "park_offical_id": "TORBA_119" }, "geometry": { "type": "Point", "coordinates": [ -3.5147216, 50.3948698 ] } }
+]
+}

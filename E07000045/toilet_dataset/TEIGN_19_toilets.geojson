@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "TEIGN_19_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Public toilets", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 23, "park_offical_id": "TEIGN_19" }, "geometry": { "type": "Point", "coordinates": [ -3.4982481, 50.5420322 ] } },
+{ "type": "Feature", "properties": { "name": "The Den", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 23, "park_offical_id": "TEIGN_19" }, "geometry": { "type": "Point", "coordinates": [ -3.495497704, 50.544283111 ] } },
+{ "type": "Feature", "properties": { "name": "Brunswick Street", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 23, "park_offical_id": "TEIGN_19" }, "geometry": { "type": "Point", "coordinates": [ -3.497133851, 50.545479395 ] } },
+{ "type": "Feature", "properties": { "name": "Lower Brook Street", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 23, "park_offical_id": "TEIGN_19" }, "geometry": { "type": "Point", "coordinates": [ -3.4949571, 50.5471866 ] } },
+{ "type": "Feature", "properties": { "name": "Lidl", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 23, "park_offical_id": "TEIGN_19" }, "geometry": { "type": "Point", "coordinates": [ -3.495653272, 50.547544675 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BATNO_71_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Newbridge Park  Ride", "payment_info": "20p", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 95, "park_offical_id": "BATNO_71" }, "geometry": { "type": "Point", "coordinates": [ -2.405984402, 51.390369224 ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "NORDE_42_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cattle Market", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 103, "park_offical_id": "NORDE_42" }, "geometry": { "type": "Point", "coordinates": [ -4.061894417, 51.080242125 ] } },
+{ "type": "Feature", "properties": { "name": "Green Lanes shopping centre", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 103, "park_offical_id": "NORDE_42" }, "geometry": { "type": "Point", "coordinates": [ -4.0597205, 51.0822821 ] } },
+{ "type": "Feature", "properties": { "name": "Pannier Market", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 103, "park_offical_id": "NORDE_42" }, "geometry": { "type": "Point", "coordinates": [ -4.059269428, 51.080650467 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 103, "park_offical_id": "NORDE_42" }, "geometry": { "type": "Point", "coordinates": [ -4.0611837, 51.0840574 ] } },
+{ "type": "Feature", "properties": { "name": "MS store opening times", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 103, "park_offical_id": "NORDE_42" }, "geometry": { "type": "Point", "coordinates": [ -4.061214924, 51.080294157 ] } }
+]
+}

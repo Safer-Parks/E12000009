@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BRIST_103_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Creative Workspace run by Brave Bold Drama CIC", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 6, "park_offical_id": "BRIST_103" }, "geometry": { "type": "Point", "coordinates": [ -2.618828416, 51.410956464 ] } },
+{ "type": "Feature", "properties": { "name": "The Gatehouse", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 6, "park_offical_id": "BRIST_103" }, "geometry": { "type": "Point", "coordinates": [ -2.611594531, 51.412830595 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BOUCH_95_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sainsburys", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 193, "park_offical_id": "BOUCH_95" }, "geometry": { "type": "Point", "coordinates": [ -1.844716072, 50.752110363 ] } }
+]
+}
