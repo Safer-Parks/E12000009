@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"name": "Exeter_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6267122370, "authority": "Exeter", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -3.4654657, 50.7435083 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6267123537, "authority": "Exeter", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -3.4655562, 50.7441439 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9332919677, "authority": "Exeter", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -3.472369, 50.7438168 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9357966837, "authority": "Exeter", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -3.4726278, 50.7436267 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9368770435, "authority": "Exeter", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -3.467714, 50.7415606 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9373842147, "authority": "Exeter", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -3.472596, 50.743459 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9373842148, "authority": "Exeter", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -3.4729966, 50.7434561 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9373842149, "authority": "Exeter", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -3.4720718, 50.7425681 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9373842151, "authority": "Exeter", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -3.4730688, 50.7436463 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9373842152, "authority": "Exeter", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -3.4723574, 50.743089 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9373842153, "authority": "Exeter", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -3.4720822, 50.7422665 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9373842154, "authority": "Exeter", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -3.4725926, 50.7437736 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9373842155, "authority": "Exeter", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -3.4720437, 50.7437 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 10695045887, "authority": "Exeter", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -3.5298112, 50.7179787 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 10695074687, "authority": "Exeter", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -3.5303644, 50.7177534 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11117367766, "authority": "Exeter", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -3.5209908, 50.7057323 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11117367767, "authority": "Exeter", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -3.5211463, 50.7056372 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11117367768, "authority": "Exeter", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -3.5212201, 50.7054691 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11117367769, "authority": "Exeter", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -3.5212831, 50.7053688 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11117367770, "authority": "Exeter", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -3.521491, 50.7053238 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11117367771, "authority": "Exeter", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -3.5215017, 50.7051964 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11117367772, "authority": "Exeter", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -3.5215956, 50.7050605 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13665537934, "authority": "Exeter", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -3.5664571, 50.7132386 ] } }
+]
+}
