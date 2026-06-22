@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BATNO_42_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4335542,51.3807153],[-2.4336616,51.3807233]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4404248,51.3831892],[-2.4404522,51.382945],[-2.440509,51.3828349],[-2.4411753,51.3818929],[-2.4413363,51.3817455],[-2.4420101,51.3814825],[-2.4453432,51.3803689]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4336616,51.3807233],[-2.4337789,51.380748],[-2.4339038,51.3807861],[-2.4340184,51.3808466],[-2.4340988,51.3809198]]]}}
+]
+}

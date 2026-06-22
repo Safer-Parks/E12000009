@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "BATNO_1_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3644229,51.3837823],[-2.3643389,51.3836962],[-2.3643014,51.3836577]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3720806,51.3869686],[-2.3721371,51.3869901],[-2.3736307,51.3878171],[-2.374906,51.3885404],[-2.3749443,51.3885677]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3545248,51.3910073],[-2.354631,51.3909256],[-2.3553827,51.3906403],[-2.3554386,51.3905895],[-2.3561711,51.3903096],[-2.3563285,51.3902639],[-2.3563691,51.3902606],[-2.3564505,51.3902821]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3642323,51.3835767],[-2.3642463,51.3836096],[-2.3642771,51.3836405],[-2.3643014,51.3836577]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.363489,51.3845617],[-2.3635519,51.3846029],[-2.3635936,51.3846981],[-2.3635829,51.384785]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Gay Street","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3639413,51.3856483],[-2.3635829,51.384785],[-2.3635359,51.3846716],[-2.3635168,51.3846354],[-2.3634681,51.3846091]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"London Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3521604,51.3919947],[-2.3523146,51.3919166],[-2.3525477,51.3918386],[-2.3525966,51.3918209],[-2.3527527,51.3917642],[-2.3529131,51.391703],[-2.3530313,51.3916495],[-2.3532825,51.3915357],[-2.3537281,51.3913199],[-2.3541555,51.3911315],[-2.3543986,51.3910497],[-2.3545248,51.3910073]]]}}
+]
+}
