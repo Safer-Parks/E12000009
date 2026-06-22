@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "TORBA_101_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Ridgeway Road","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5108687,50.4625331],[-3.5104243,50.4627508],[-3.509968,50.4630145],[-3.5097442,50.4631072]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5125309,50.4722642],[-3.5127536,50.4721524],[-3.5132442,50.4718238],[-3.5133706,50.4717598],[-3.5135484,50.4719984],[-3.5137047,50.4722778],[-3.5136833,50.4723555],[-3.5136062,50.4724455],[-3.5133813,50.4727087],[-3.5130336,50.4731195],[-3.5129547,50.4731684]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5137904,50.472057],[-3.5138932,50.4722029],[-3.5141353,50.4725887],[-3.5141867,50.4727209],[-3.5142452,50.4727877]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Ridgeway Road","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5080108,50.4636896],[-3.5077602,50.4637692],[-3.5077176,50.4637849]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Ridgeway Road","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5088799,50.4634222],[-3.5086201,50.4634959],[-3.5080108,50.4636896]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Ridgeway Road","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5097442,50.4631072],[-3.5092103,50.4633285],[-3.5088799,50.4634222]]]}}
+]
+}

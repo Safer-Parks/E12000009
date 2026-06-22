@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOUGL_69_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3668729,51.5199851],[-2.3668047,51.5200336],[-2.3640336,51.5220107],[-2.3639743,51.5220506]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3616554,51.519203],[-2.361744,51.5192722],[-2.3619506,51.5200529],[-2.3624629,51.5213146],[-2.3627311,51.5216951],[-2.3627807,51.522114],[-2.362715,51.5221791]]]}}
+]
+}

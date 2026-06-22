@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "SOUGL_32_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Hover's Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4776846,51.5472272],[-2.4776008,51.5471238],[-2.4774905,51.5469877],[-2.477391,51.5467779],[-2.4772879,51.5467332],[-2.4772213,51.5467043]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4684624,51.5479928],[-2.4683013,51.5479409],[-2.468244,51.547895],[-2.4681777,51.547775],[-2.4678381,51.5474442],[-2.4672691,51.5468283],[-2.4668143,51.5466292],[-2.4664395,51.5464204],[-2.4662043,51.5463433],[-2.4659047,51.546316],[-2.465101,51.5463729]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Northmead Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4700711,51.557569],[-2.4699219,51.5580539],[-2.4696077,51.5590301],[-2.4692623,51.5600052],[-2.4686801,51.561878],[-2.4680869,51.5633401],[-2.4679236,51.5637724],[-2.4678732,51.5640396],[-2.4676982,51.5645048],[-2.467576,51.5647962],[-2.4674961,51.5651628]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4776008,51.5471238],[-2.477507,51.5471589],[-2.4764425,51.5475373],[-2.4755997,51.5478703],[-2.4755454,51.5478928],[-2.4755031,51.5479136],[-2.4749235,51.5481812],[-2.4748527,51.5481972],[-2.4741426,51.5482362],[-2.4740095,51.5482694]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4749235,51.5481812],[-2.4752616,51.5481585]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4572491,51.5493143],[-2.4572593,51.549349],[-2.4568215,51.5493908]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4693335,51.545204],[-2.4693556,51.5451842],[-2.4693332,51.5451614]]]}}
+]
+}

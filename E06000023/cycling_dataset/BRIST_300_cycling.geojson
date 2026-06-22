@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BRIST_300_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6448295,51.5141704],[-2.6446554,51.5142294]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6463747,51.5127981],[-2.6462728,51.5128039],[-2.646136,51.5127755],[-2.6459,51.5127013],[-2.6457591,51.5126595],[-2.6456854,51.5126512],[-2.6456277,51.5126654],[-2.6455754,51.5126971],[-2.6453447,51.5128665],[-2.6452348,51.5129299],[-2.6450522,51.5130226]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6473688,51.5159401],[-2.64733,51.5159661],[-2.6471831,51.5160436]]]}}
+]
+}

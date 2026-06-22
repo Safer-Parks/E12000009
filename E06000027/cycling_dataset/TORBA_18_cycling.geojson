@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "TORBA_18_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5354628,50.501135],[-3.535326,50.5011101],[-3.5350921,50.5010974],[-3.5348349,50.5011025],[-3.5346374,50.5011782],[-3.5344884,50.501288],[-3.5343891,50.5014338],[-3.5342853,50.5016661]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5342853,50.5016661],[-3.5342616,50.5018787],[-3.5342616,50.5021749],[-3.5342267,50.5027093],[-3.5342214,50.5029817],[-3.534221,50.5030048]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5354628,50.501135],[-3.5355997,50.5012665],[-3.5356941,50.5013651],[-3.5357069,50.501431],[-3.5357095,50.5015513],[-3.5357357,50.5016795],[-3.5358385,50.5017874],[-3.5360064,50.5018438],[-3.5362961,50.5019164],[-3.5365646,50.5019848]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5365646,50.5019848],[-3.5373954,50.502168],[-3.5381162,50.5023156],[-3.538452,50.5022971],[-3.538839,50.5021608],[-3.5389088,50.5021619]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5257058,50.5031671],[-3.5258943,50.5030591],[-3.5260834,50.5029737],[-3.526311,50.5029337],[-3.5268277,50.5029336],[-3.5273185,50.5029439]]]}}
+]
+}

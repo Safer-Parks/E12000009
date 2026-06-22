@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NORSO_90_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9066347,51.3745661],[-2.9065328,51.3746565],[-2.9060368,51.3751221],[-2.9052623,51.3758392],[-2.9050122,51.3760603],[-2.9050554,51.3762348],[-2.9051382,51.3763451]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8978194,51.3707159],[-2.8977134,51.3707101]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8934554,51.3718603],[-2.8934995,51.3719052],[-2.8935972,51.3719452],[-2.8936848,51.3719494],[-2.8940117,51.3718526],[-2.8948002,51.3715939],[-2.8953393,51.371394],[-2.8957268,51.3712699],[-2.8959795,51.3712152],[-2.8964277,51.3710953],[-2.8967242,51.371007],[-2.8970309,51.3708997],[-2.8975093,51.3707504],[-2.8976037,51.3707272],[-2.8976509,51.3707146],[-2.8977134,51.3707101]]]}}
+]
+}

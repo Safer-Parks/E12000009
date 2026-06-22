@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "TORBA_95_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Rose Acre Terrace","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5127043,50.3907755],[-3.5126174,50.3904672],[-3.5126265,50.3904213],[-3.5131176,50.3902577],[-3.5132467,50.3902224],[-3.5132515,50.3902007],[-3.5132099,50.3901734],[-3.5131503,50.3901578],[-3.5130104,50.3901175],[-3.5128911,50.3900896]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5204924,50.393895],[-3.5205008,50.3939126]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5147295,50.3889497],[-3.514759,50.3889121],[-3.5145471,50.3887975],[-3.514464,50.3887171],[-3.5144425,50.3886419],[-3.5144744,50.3885968]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5155387,50.3907382],[-3.5155265,50.390271]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5147266,50.3949649],[-3.5147462,50.3950358],[-3.5148805,50.3951571]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5176545,50.3886132],[-3.5176402,50.3886429],[-3.5178149,50.3888467],[-3.5178149,50.3888771],[-3.5178975,50.3889768],[-3.5178982,50.3890191],[-3.517923,50.3890469],[-3.5179666,50.3890811],[-3.517988,50.3891115],[-3.5180034,50.3891846],[-3.5180096,50.389206]]]}}
+]
+}

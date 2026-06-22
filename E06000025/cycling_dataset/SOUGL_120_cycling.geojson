@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "SOUGL_120_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5251405,51.6015397],[-2.5251832,51.6018779],[-2.5251886,51.6023104],[-2.5252092,51.602862],[-2.5251791,51.6028765],[-2.5251428,51.6028879],[-2.5250327,51.6028879],[-2.5249504,51.6028872],[-2.5248847,51.6028893],[-2.5248181,51.602902],[-2.5247272,51.6029357],[-2.5246733,51.6030134],[-2.5244319,51.6034474],[-2.5243404,51.6036159],[-2.5239991,51.6042529],[-2.5239198,51.6043042],[-2.52378,51.6044641],[-2.523706,51.604551]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Jubilee Way","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5256648,51.6014842],[-2.525448,51.6015167],[-2.5253183,51.6015361],[-2.5251405,51.6015397]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.52378,51.6044641],[-2.5229599,51.6041894],[-2.5227267,51.6040556],[-2.5226734,51.604025]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.523706,51.604551],[-2.5235258,51.6047542]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5235258,51.6047542],[-2.5235252,51.6048119],[-2.5235658,51.604894],[-2.5236343,51.6049668]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Abbey Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5093024,51.5967731],[-2.5091347,51.596587],[-2.5091084,51.5965403],[-2.5091068,51.596456],[-2.5091434,51.596347],[-2.5092019,51.5962243],[-2.509136,51.5959472],[-2.5089898,51.5956065],[-2.5086095,51.5954248],[-2.5082438,51.5952976],[-2.5061668,51.5945479],[-2.505845,51.5944207],[-2.5056183,51.5942208],[-2.5052746,51.5938028],[-2.5050406,51.5933939],[-2.5048285,51.5930441],[-2.5044043,51.5926806],[-2.5040825,51.5925171],[-2.5037461,51.5923535]]]}}
+]
+}

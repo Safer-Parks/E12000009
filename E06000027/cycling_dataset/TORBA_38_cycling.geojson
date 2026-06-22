@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "TORBA_38_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.521559,50.4019239],[-3.5215831,50.4016751]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5215831,50.4016751],[-3.5216014,50.4015213],[-3.5216471,50.40122],[-3.521707,50.4009664]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5169998,50.3993428],[-3.5164193,50.3988632]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5213119,50.4017089],[-3.5214683,50.401695],[-3.5215831,50.4016751]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5204924,50.393895],[-3.5205008,50.3939126]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5155387,50.3907382],[-3.5155265,50.390271]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5147266,50.3949649],[-3.5147462,50.3950358],[-3.5148805,50.3951571]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5232671,50.4032527],[-3.5233163,50.4032585],[-3.5233744,50.4032549],[-3.5234821,50.4032357],[-3.5236167,50.4032188],[-3.5237711,50.403204],[-3.5239334,50.403188],[-3.5241057,50.4031675],[-3.5242194,50.4031579],[-3.5242793,50.4031476],[-3.5243285,50.4031313],[-3.5243664,50.4031046],[-3.5244054,50.4030879]]]}}
+]
+}

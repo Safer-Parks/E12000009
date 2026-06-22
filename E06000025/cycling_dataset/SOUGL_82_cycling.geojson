@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SOUGL_82_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4375701,51.4614879],[-2.4376371,51.4614668],[-2.4377898,51.4614189],[-2.4378112,51.4613755],[-2.4378005,51.4613308],[-2.4377482,51.4612501],[-2.4376905,51.4611666],[-2.4376834,51.4611161],[-2.4376881,51.461076],[-2.437672,51.4610338],[-2.4376585,51.4610126]]]}}
+]
+}

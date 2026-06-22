@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "SOUGL_118_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5251405,51.6015397],[-2.5251832,51.6018779],[-2.5251886,51.6023104],[-2.5252092,51.602862],[-2.5251791,51.6028765],[-2.5251428,51.6028879],[-2.5250327,51.6028879],[-2.5249504,51.6028872],[-2.5248847,51.6028893],[-2.5248181,51.602902],[-2.5247272,51.6029357],[-2.5246733,51.6030134],[-2.5244319,51.6034474],[-2.5243404,51.6036159],[-2.5239991,51.6042529],[-2.5239198,51.6043042],[-2.52378,51.6044641],[-2.523706,51.604551]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.52378,51.6044641],[-2.5229599,51.6041894],[-2.5227267,51.6040556],[-2.5226734,51.604025]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.523706,51.604551],[-2.5235258,51.6047542]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5235258,51.6047542],[-2.5235252,51.6048119],[-2.5235658,51.604894],[-2.5236343,51.6049668]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5235469,51.609235],[-2.5235311,51.6094808],[-2.5235194,51.6095007],[-2.5234772,51.6095269]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Bristol Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.526775,51.6053563],[-2.5267666,51.6054447],[-2.5266914,51.6056058],[-2.5265926,51.6056923]]]}}
+]
+}

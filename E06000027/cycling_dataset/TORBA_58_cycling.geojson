@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "TORBA_58_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5085377,50.4773137],[-3.5084245,50.4773464],[-3.5079679,50.4774614],[-3.5075072,50.4775831],[-3.5070811,50.4777119],[-3.5067605,50.4777959],[-3.5065616,50.477872],[-3.5064326,50.4779265],[-3.5063579,50.4779753],[-3.5063091,50.4779942]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5125309,50.4722642],[-3.5127536,50.4721524],[-3.5132442,50.4718238],[-3.5133706,50.4717598],[-3.5135484,50.4719984],[-3.5137047,50.4722778],[-3.5136833,50.4723555],[-3.5136062,50.4724455],[-3.5133813,50.4727087],[-3.5130336,50.4731195],[-3.5129547,50.4731684]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5137904,50.472057],[-3.5138932,50.4722029],[-3.5141353,50.4725887],[-3.5141867,50.4727209],[-3.5142452,50.4727877]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5160167,50.4727723],[-3.5164148,50.4730062],[-3.5168803,50.4733178],[-3.5173001,50.4736043],[-3.5175438,50.4737663],[-3.5179397,50.4740529],[-3.5181072,50.4741166]]]}}
+]
+}

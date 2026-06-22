@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "NORSO_71_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":"Haybow","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.886234,51.3608971],[-2.8859788,51.3609384],[-2.8858088,51.36097],[-2.8857869,51.3609748],[-2.885711,51.3609915]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8857869,51.3609748],[-2.8856757,51.3608153]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8911713,51.3612295],[-2.8912503,51.3612498],[-2.891546,51.3607414],[-2.8915721,51.3607036],[-2.8916125,51.3606453],[-2.8917775,51.3603442],[-2.8920158,51.3599573],[-2.892214,51.3595419],[-2.8922805,51.3593914],[-2.8922999,51.3592849],[-2.8923041,51.3592321],[-2.8923465,51.3592006]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8909615,51.361212],[-2.8909736,51.3611888],[-2.891036,51.3611948],[-2.8910847,51.3612073]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8910847,51.3612073],[-2.8911713,51.3612295]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8907935,51.3612471],[-2.8908849,51.3612692],[-2.8909576,51.3612893],[-2.8910237,51.3613109]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8911072,51.3613382],[-2.8911399,51.3613489]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8910237,51.3613109],[-2.8911072,51.3613382]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8884297,51.3618238],[-2.8883792,51.3618765],[-2.8882289,51.3620728],[-2.8881598,51.3621299],[-2.8879456,51.3622971],[-2.8879093,51.3623046]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8856381,51.3602262],[-2.8856428,51.3602374],[-2.8856381,51.3603334],[-2.8856272,51.3603412],[-2.8852791,51.3604942],[-2.8852534,51.360522],[-2.8852503,51.3605454]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Silver Moor Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8915721,51.3607036],[-2.8914999,51.3606615],[-2.891121,51.3604171],[-2.8909682,51.3603149],[-2.8907904,51.3601601],[-2.8905908,51.3599975],[-2.8903289,51.3597764],[-2.8900201,51.3595229],[-2.8897911,51.359346]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8878064,51.3578495],[-2.8878806,51.3578022],[-2.8879592,51.3577537],[-2.888061,51.3577011],[-2.8883024,51.3575897],[-2.8884994,51.3574874],[-2.8886456,51.357425],[-2.8887261,51.3573933],[-2.8888315,51.3573557],[-2.8889869,51.3573158],[-2.8891895,51.3572714],[-2.8892524,51.357265],[-2.8892683,51.3572671],[-2.8892968,51.3572708],[-2.8893403,51.3572852],[-2.8893819,51.357306]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8892683,51.3572671],[-2.889295,51.3572356],[-2.8893181,51.3572188],[-2.8893579,51.357194]]]}}
+]
+}

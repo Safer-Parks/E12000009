@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "TORBA_40_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5147307,50.4812315],[-3.5146264,50.4812041],[-3.5144783,50.4811654],[-3.5142267,50.4810905],[-3.5140603,50.4810324],[-3.5138871,50.4809887]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5160167,50.4727723],[-3.5164148,50.4730062],[-3.5168803,50.4733178],[-3.5173001,50.4736043],[-3.5175438,50.4737663],[-3.5179397,50.4740529],[-3.5181072,50.4741166]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5184475,50.4819106],[-3.518451,50.482021],[-3.5184457,50.4821378],[-3.5185024,50.48219],[-3.5185365,50.4822202],[-3.5186294,50.4822592],[-3.5188476,50.4823124],[-3.5188859,50.4823196]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5148336,50.4812607],[-3.5147945,50.4812496],[-3.5147307,50.4812315]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5209812,50.4861058],[-3.5206727,50.4861919],[-3.5206636,50.4862194],[-3.5206763,50.486255],[-3.5207069,50.4863055],[-3.5207629,50.4863756],[-3.5207809,50.4864054],[-3.5207953,50.4864743],[-3.5208242,50.4865994],[-3.5208513,50.4866752],[-3.5208856,50.4867165],[-3.5209325,50.4867693],[-3.5209848,50.4867808],[-3.5211562,50.4867808],[-3.5212915,50.4867808],[-3.5213565,50.4867842],[-3.5213835,50.4868313],[-3.5214593,50.4870161]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5206727,50.4861919],[-3.5206772,50.4861539],[-3.5206709,50.486112],[-3.5206537,50.4860771]]]}}
+]
+}
