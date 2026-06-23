@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "CORNW_220_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.0683175,50.1449249],[-5.0682526,50.1449824]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Foxs Lane","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.0679437,50.1502671],[-5.0674198,50.1493093],[-5.0672894,50.1490723],[-5.0669591,50.1485324]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.0745822,50.154947],[-5.0744611,50.1546724],[-5.0744155,50.1546285],[-5.0743352,50.1546045],[-5.0740104,50.154663],[-5.0737812,50.1543714]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.0673443,50.1483661],[-5.0665811,50.1483632]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.0655431,50.1480676],[-5.0650791,50.1481329],[-5.0645373,50.1481965],[-5.0638855,50.148291],[-5.0637583,50.1482871]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.0699675,50.148713],[-5.0704133,50.1486478]]]}}
+]
+}

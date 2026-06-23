@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TEIGN_22_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.6180789,50.5592143],[-3.617929,50.5591344],[-3.6178682,50.559024],[-3.6177057,50.5589073],[-3.6175987,50.5588583],[-3.6173293,50.5588362],[-3.6170685,50.5588252],[-3.6169382,50.5588528]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.6272948,50.561213],[-3.6275361,50.5611961],[-3.6277174,50.561205],[-3.6277788,50.5612068],[-3.6282084,50.5610869]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Stover Way","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.6268511,50.5603795],[-3.6268562,50.5604421],[-3.6268849,50.5604875],[-3.6270362,50.5607892],[-3.6271435,50.5609314],[-3.6271734,50.5609996],[-3.6272394,50.5611475],[-3.6272948,50.561213]]]}}
+]
+}

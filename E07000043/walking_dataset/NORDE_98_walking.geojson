@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "NORDE_98_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.124604,51.0955666],[-4.1245179,51.0955183],[-4.1238268,51.0954813]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.1347755,51.0992063],[-4.1347643,51.0992385],[-4.1346567,51.0995451],[-4.1346752,51.0996961]]]}}
+]
+}

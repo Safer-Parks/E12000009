@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SOMER_1128_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Church Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.1129164,51.1236814],[-3.1130854,51.1235013],[-3.1133161,51.1233296],[-3.113548,51.1232059]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":"Church Lane","category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.1103183,51.1260177],[-3.1103254,51.1259557],[-3.1105131,51.1257756],[-3.110953,51.1253514],[-3.1111596,51.1252016],[-3.1118328,51.1247083],[-3.1122646,51.1244255],[-3.1125275,51.1242016],[-3.1127716,51.1238649],[-3.1129164,51.1236814]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.110457,51.1267348],[-3.1105346,51.1267318],[-3.110666,51.1267116],[-3.1111479,51.1265712],[-3.1115351,51.1264254],[-3.1118717,51.1263017],[-3.1121255,51.1261983],[-3.1122016,51.1261611],[-3.1122338,51.1261022],[-3.1122378,51.1260618],[-3.1122468,51.1260267]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.1178217,51.1218613],[-3.11795,51.1220293],[-3.1179982,51.1221168],[-3.1182209,51.1226707],[-3.1183925,51.1230394],[-3.1184703,51.1231791],[-3.1189558,51.1238357],[-3.1192347,51.1241336],[-3.1193729,51.1242865]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.1122016,51.1261611],[-3.1131745,51.1260921],[-3.1145194,51.1259162],[-3.1164808,51.1255381],[-3.1164715,51.1254736],[-3.1164563,51.1254255]]]}}
+]
+}

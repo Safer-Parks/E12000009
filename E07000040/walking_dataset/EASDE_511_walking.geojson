@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "EASDE_511_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.352411,50.7684956],[-3.3523893,50.7684618],[-3.3523424,50.7683902],[-3.3523177,50.7683592],[-3.3522521,50.7683269],[-3.3521376,50.7683224],[-3.3513565,50.7684062],[-3.3509038,50.7684669],[-3.349256,50.7685815],[-3.348969,50.7686294],[-3.3474224,50.7687428],[-3.3467351,50.7687973],[-3.3466667,50.7688023]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3469637,50.7653026],[-3.3469107,50.7653548]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3469107,50.7653548],[-3.3468799,50.7653798],[-3.3461255,50.7658676],[-3.3458365,50.7661008],[-3.3449173,50.7666126]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3394561,50.7627469],[-3.339243,50.7630788],[-3.3387602,50.7636489],[-3.3385456,50.763805],[-3.3381512,50.7639094],[-3.338109,50.7639616],[-3.3386207,50.7644496],[-3.3391035,50.7656236],[-3.3397902,50.7670351],[-3.3398116,50.767544],[-3.3402546,50.7685338],[-3.3402961,50.7686681],[-3.34027,50.7687682]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3523893,50.7684618],[-3.351501,50.7686939],[-3.3514918,50.7687407]]]}}
+]
+}

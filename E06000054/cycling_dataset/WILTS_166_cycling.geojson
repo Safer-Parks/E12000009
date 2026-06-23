@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WILTS_166_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1173357,51.353919],[-2.1166427,51.3534333],[-2.1164265,51.3532539],[-2.1138917,51.3535459],[-2.1100433,51.3540178],[-2.1082913,51.3542326],[-2.1076368,51.3540981]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"Redstocks Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1058098,51.3575002],[-2.1053433,51.3579513],[-2.1043026,51.3589562],[-2.1031224,51.3601152],[-2.1023714,51.360899],[-2.1023415,51.3609304],[-2.1015346,51.3617766],[-2.1012663,51.3620915],[-2.1012481,51.3621119]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.104619,51.3566641],[-2.1045602,51.3566447],[-2.1044488,51.3565841],[-2.1043255,51.3564997]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1056476,51.3556374],[-2.1049826,51.356208],[-2.1048098,51.3563088],[-2.1046783,51.3563665],[-2.1045528,51.3564124],[-2.104414,51.3564551],[-2.1043255,51.3564997],[-2.1042432,51.3565586],[-2.1041558,51.3566187],[-2.1040315,51.3566775],[-2.103663,51.3568403],[-2.1027537,51.3572274],[-2.102668,51.3572569],[-2.1026093,51.3572713]]]}}
+]
+}

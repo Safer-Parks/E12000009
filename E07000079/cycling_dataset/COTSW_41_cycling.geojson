@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "COTSW_41_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1641048,51.875372],[-2.1645953,51.8754737],[-2.1647294,51.8755201],[-2.1649145,51.8755582],[-2.1650033,51.8755483]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.166326,51.8773648],[-2.1662703,51.8772761],[-2.1658892,51.8772577],[-2.1654815,51.8772378],[-2.1651704,51.8771848],[-2.1648585,51.8771116]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1583761,51.8792351],[-2.1588379,51.8797332]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1660029,51.8804896],[-2.1659053,51.8801601]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1629088,51.8813858],[-2.1631049,51.8817907]]]}}
+]
+}

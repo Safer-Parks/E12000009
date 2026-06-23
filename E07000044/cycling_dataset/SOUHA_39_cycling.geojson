@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SOUHA_39_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.6704664,50.4180969],[-3.6702145,50.4181322],[-3.6698157,50.4182096],[-3.6693691,50.4183181],[-3.6691977,50.4183326]]]}}
+]
+}

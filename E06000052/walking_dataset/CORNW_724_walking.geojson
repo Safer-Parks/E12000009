@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CORNW_724_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":"Bunts Lane","category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.1838251,50.2429065],[-5.1838764,50.2428258],[-5.1843155,50.2421572],[-5.1844549,50.2421704],[-5.1845738,50.2418733],[-5.1846002,50.2416366],[-5.1845978,50.2413938],[-5.1843028,50.2412519],[-5.1843963,50.240864],[-5.1843848,50.2405333],[-5.1843924,50.2404828]]]}}
+]
+}

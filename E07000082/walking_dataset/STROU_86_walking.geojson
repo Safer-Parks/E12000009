@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "STROU_86_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":"Wood Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3754314,51.6592827],[-2.3757371,51.6592544],[-2.3760295,51.6592553],[-2.3763486,51.6593116]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":"CNN25","category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3787131,51.661658],[-2.3787772,51.6616434],[-2.3791478,51.6615691],[-2.3792766,51.6615429],[-2.3793298,51.6613819],[-2.3793351,51.6612197],[-2.3793456,51.6611141],[-2.37939,51.661073],[-2.3793871,51.6607542],[-2.3794007,51.6604824],[-2.379487,51.6600538],[-2.3796908,51.6596508],[-2.3804397,51.6587037],[-2.3806373,51.6580082],[-2.3805247,51.6579716],[-2.3809914,51.6572761],[-2.3815815,51.6567003],[-2.3823539,51.6561612],[-2.382178,51.6558149],[-2.3824237,51.6552294],[-2.3826812,51.6544173],[-2.3831235,51.6525961],[-2.3832057,51.652343],[-2.3832942,51.6523188]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"Wood Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3710106,51.6603275],[-2.3714545,51.6601717],[-2.3718223,51.660031],[-2.3728067,51.6595969],[-2.3734401,51.6594957],[-2.374671,51.6593742],[-2.3754314,51.6592827]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":"CNN24","category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.381178,51.6604007],[-2.3810581,51.6602551],[-2.3804911,51.6600521],[-2.380165,51.6598735],[-2.3796908,51.6596508],[-2.3778674,51.6583445]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3767045,51.6592995],[-2.377414,51.6593788],[-2.3777995,51.6593712],[-2.3780387,51.6593354],[-2.3783974,51.6592394]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"CNN24","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3778674,51.6583445],[-2.3776179,51.6583175],[-2.3773821,51.658323],[-2.3771448,51.658327],[-2.3769092,51.6583129],[-2.3767646,51.6583236],[-2.3766746,51.658336]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3728475,51.6557135],[-2.3725589,51.6557499],[-2.3723078,51.6557425],[-2.3722196,51.6557202],[-2.3720696,51.6556657],[-2.3719537,51.6556539],[-2.3718305,51.6556727],[-2.3713166,51.6559288],[-2.3710314,51.6560737],[-2.3708208,51.6560939],[-2.3709349,51.6563492]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"Wood Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.376545,51.659357],[-2.3766938,51.6593908]]]}}
+]
+}

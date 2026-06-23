@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "STROU_98_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3438608,51.8017714],[-2.3440364,51.801778],[-2.3445578,51.8018108]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3468886,51.7971369],[-2.3468836,51.7970828],[-2.3468232,51.796962],[-2.3466919,51.7968284],[-2.3466,51.7967078],[-2.3465177,51.7964889]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3402596,51.7961173],[-2.3402222,51.7960101],[-2.3402296,51.7959388],[-2.3402835,51.7958403],[-2.340379,51.7957288],[-2.3403873,51.7956787],[-2.3403698,51.7955993],[-2.340057,51.7950091],[-2.3389892,51.7930074],[-2.3389776,51.7929659],[-2.3389993,51.7929291],[-2.3391133,51.7928938],[-2.3391299,51.7928381],[-2.3388054,51.7922342],[-2.338688,51.7920592],[-2.3385933,51.7919761]]]}}
+]
+}

@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "COTSW_411_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0719574,52.1049986],[-2.0717438,52.1049368]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0707705,52.1044548],[-2.0707334,52.1044269],[-2.0706374,52.1043394],[-2.0705936,52.1041611],[-2.0705774,52.1040952]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Pershore Old Bridge","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0712344,52.1046476],[-2.0709984,52.1045509]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Victoria terrace","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0810017,52.1128285],[-2.0805172,52.1127443]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0714119,52.1122928],[-2.0714218,52.1121482],[-2.0714932,52.111909],[-2.0717669,52.1114397]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0726728,52.1074421],[-2.0730042,52.1074082]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Pershore Old Bridge","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0709984,52.1045509],[-2.0707705,52.1044548]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0717438,52.1049368],[-2.0714879,52.1047943]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0714879,52.1047943],[-2.0712344,52.1046476]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0730881,52.1075847],[-2.0731386,52.1075751]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0731386,52.1075751],[-2.0732431,52.1075564]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0732431,52.1075564],[-2.0732806,52.1075487]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0732651,52.1088954],[-2.0728216,52.1089923],[-2.0724036,52.1090849],[-2.0719768,52.1091618]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.074117,52.1180198],[-2.073984,52.1180478],[-2.0738632,52.1180739],[-2.07379,52.1181251],[-2.0737457,52.1181941],[-2.0737066,52.1182589],[-2.0736947,52.1183237],[-2.0737372,52.1183812],[-2.0738053,52.1184105],[-2.0738619,52.1184317],[-2.0741598,52.1184927],[-2.0742485,52.1184889]]]}}
+]
+}

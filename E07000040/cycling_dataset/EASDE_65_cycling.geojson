@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "EASDE_65_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":"Old Route of LSWR Branch Line","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3205513,50.6344857],[-3.3203502,50.6346232],[-3.3199515,50.6349641]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Exmouth and Salterton Line","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3230075,50.6335728],[-3.3227473,50.6336231],[-3.3223304,50.6337479],[-3.3216711,50.6339857],[-3.3213614,50.6341159],[-3.3210516,50.6342579],[-3.3205513,50.6344857]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Budleigh Salterton Branch","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3199515,50.6349641],[-3.319722,50.6352778],[-3.3195881,50.6355881],[-3.3194114,50.6359595],[-3.3191128,50.6367094]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3079705,50.6356688],[-3.3081703,50.6356363],[-3.3083152,50.6355104]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3071879,50.6298304],[-3.3071154,50.6298377],[-3.3071014,50.6298513],[-3.3071148,50.6298866],[-3.3071885,50.6299078],[-3.3072736,50.6299248],[-3.307537,50.6299656],[-3.3078671,50.6300223],[-3.308301,50.6301009],[-3.3087326,50.6301758],[-3.3093284,50.6302538],[-3.3097738,50.6302907],[-3.3105158,50.6303362],[-3.3112732,50.6303491],[-3.3115267,50.6303349]]]}}
+]
+}

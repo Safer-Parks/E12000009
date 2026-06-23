@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "EASDE_41_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3301949,50.7515231],[-3.3303219,50.7513311]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3349836,50.7543913],[-3.3353891,50.7541543],[-3.335626,50.7539944],[-3.3357563,50.7538245],[-3.3356142,50.7536197],[-3.3352983,50.7534123],[-3.335089,50.7529726],[-3.3349073,50.7528926],[-3.334141,50.7529823],[-3.3334908,50.7532317],[-3.3331898,50.7534506],[-3.3326767,50.753668],[-3.3320449,50.753805],[-3.3316731,50.753822]]]}}
+]
+}

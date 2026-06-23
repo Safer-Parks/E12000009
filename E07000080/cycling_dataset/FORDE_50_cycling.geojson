@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "FORDE_50_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":"Marsh Road","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4227336,51.7701977],[-2.4225107,51.770224],[-2.4214643,51.7703727],[-2.4211427,51.7704311],[-2.4205535,51.7705225],[-2.4196346,51.7706066],[-2.4188812,51.770631],[-2.4175772,51.7706379],[-2.4174161,51.7705602]]]}}
+]
+}

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "EASDE_59_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":"Exmouth and Salterton Line","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3230075,50.6335728],[-3.3227473,50.6336231],[-3.3223304,50.6337479],[-3.3216711,50.6339857],[-3.3213614,50.6341159],[-3.3210516,50.6342579],[-3.3205513,50.6344857]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3301491,50.6341027],[-3.3301981,50.6340688],[-3.3301546,50.6339814],[-3.3301109,50.6339029],[-3.330034,50.6337966],[-3.3299704,50.6337146],[-3.3298465,50.6335746],[-3.3297165,50.6334369],[-3.3295975,50.6332047],[-3.3295398,50.6330806],[-3.3294466,50.6328835],[-3.3293605,50.6327102],[-3.3291568,50.6323338],[-3.3291407,50.632298],[-3.3291412,50.6321874],[-3.3290864,50.6319761],[-3.3288882,50.6315325],[-3.3287144,50.6310842],[-3.328693,50.6310301]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3230075,50.6335728],[-3.3229695,50.6334352]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3301981,50.6340688],[-3.3302267,50.6340503],[-3.3302663,50.6339704],[-3.3303166,50.6338677],[-3.3303836,50.6336856],[-3.3304239,50.633541],[-3.3304603,50.6333603],[-3.3304933,50.6333039],[-3.330701,50.6331783],[-3.3307778,50.6331652]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3262918,50.6338689],[-3.3261789,50.6338434],[-3.3258053,50.6337597],[-3.3254066,50.6337208]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Exmouth and Salterton Line","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3254066,50.6337208],[-3.3249301,50.6336174],[-3.3245363,50.6335694],[-3.32414,50.6335468],[-3.3237623,50.6335464],[-3.3230772,50.6335664],[-3.3230075,50.6335728]]]}}
+]
+}

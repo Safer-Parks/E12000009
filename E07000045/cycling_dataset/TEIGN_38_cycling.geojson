@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TEIGN_38_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.6085508,50.5087192],[-3.6084133,50.5087103],[-3.6081076,50.508712]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.6152699,50.5109191],[-3.6153442,50.5109943],[-3.6154515,50.5111273],[-3.6155131,50.5112467],[-3.6155507,50.5113951],[-3.6155507,50.5116117],[-3.6155373,50.5119119]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.6119847,50.5051986],[-3.611837,50.5053078],[-3.6115962,50.5055075],[-3.6112918,50.5056926]]]}}
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "CORNW_36_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Treskerby","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.2027994,50.2463279],[-5.2028031,50.2464252],[-5.2028221,50.2465212],[-5.2028241,50.2465902],[-5.2028521,50.2466372],[-5.2028611,50.2467582],[-5.2029321,50.2469352],[-5.2030031,50.2470682],[-5.2030171,50.2471842],[-5.2030461,50.2472312],[-5.2032199,50.2473721]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.2068735,50.2487946],[-5.2068256,50.2488072],[-5.2066585,50.2488197],[-5.2065694,50.2488348],[-5.2064594,50.2488532],[-5.2064178,50.2488682]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.2067009,50.2483826],[-5.2066452,50.2483904],[-5.2065962,50.2484094],[-5.2064594,50.2484488],[-5.2063823,50.2484733],[-5.2063447,50.248487]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.2061446,50.2478221],[-5.2061255,50.2478479],[-5.2060041,50.2479604],[-5.2059893,50.2480436],[-5.2059612,50.248156],[-5.2059652,50.2482589]]]}}
+]
+}

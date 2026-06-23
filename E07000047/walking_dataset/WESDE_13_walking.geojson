@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WESDE_13_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.1227043,50.5196508],[-4.122376,50.5196668],[-4.1220522,50.5197177],[-4.1218923,50.5197787],[-4.1216164,50.5198803]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.1227672,50.5195554],[-4.1228358,50.5197253],[-4.1228998,50.5198219],[-4.1229758,50.5198626],[-4.1230117,50.5198778]]]}}
+]
+}

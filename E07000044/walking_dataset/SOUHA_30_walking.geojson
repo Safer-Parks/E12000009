@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOUHA_30_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.7247619,50.4534223],[-3.7247397,50.4533841],[-3.7247243,50.4533576],[-3.7244586,50.4529004],[-3.7238886,50.4520108],[-3.723257,50.4509877],[-3.7229156,50.4504823]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.7329734,50.4514078],[-3.7330958,50.4514994],[-3.7345934,50.4527807],[-3.7353428,50.4529696],[-3.7356464,50.4530254],[-3.7360648,50.4531323],[-3.7361458,50.453153],[-3.7367788,50.4534809],[-3.7378088,50.4541913],[-3.7383396,50.4544972]]]}}
+]
+}

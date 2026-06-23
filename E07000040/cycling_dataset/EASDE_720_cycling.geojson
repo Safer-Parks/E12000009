@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "EASDE_720_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0762277,50.7968559],[-3.0765286,50.7966782],[-3.0769011,50.7965562],[-3.0778634,50.7962613],[-3.0781048,50.7954916],[-3.0781792,50.7953861]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0773114,50.7809998],[-3.0774713,50.7809134],[-3.0778969,50.7807703],[-3.0780289,50.7806889],[-3.0781548,50.7806378],[-3.0783578,50.7806465],[-3.0784386,50.7806235],[-3.0785667,50.7804256],[-3.0788135,50.7802153],[-3.0790173,50.7801068],[-3.0792748,50.7800389],[-3.0795967,50.7800457],[-3.0798863,50.7800389],[-3.0801331,50.7800525],[-3.0802733,50.7799898]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0786112,50.7952244],[-3.0789636,50.7952447],[-3.0792388,50.7953637],[-3.0799003,50.7957238]]]}}
+]
+}

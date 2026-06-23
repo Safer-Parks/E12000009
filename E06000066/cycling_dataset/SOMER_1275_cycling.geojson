@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "SOMER_1275_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Charlton Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0222415,51.0329441],[-3.0229421,51.0327949],[-3.0237102,51.0326307],[-3.0239218,51.0325926],[-3.0242399,51.0325027],[-3.024525,51.0324472],[-3.0246636,51.0324422],[-3.0247595,51.0324675],[-3.0248584,51.0325132],[-3.0249641,51.0325527],[-3.0251057,51.0325634],[-3.0255147,51.0325768],[-3.0259055,51.0326234],[-3.0260791,51.0326476],[-3.0261611,51.0326836],[-3.026228,51.0327403],[-3.026268,51.0327549]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Cowleaze Drove","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.040041,51.0200073],[-3.0400138,51.0199864],[-3.0398815,51.0198499],[-3.0397382,51.0197631],[-3.039569,51.0197025],[-3.0393997,51.0196632],[-3.0391601,51.0196517],[-3.0389596,51.0196419],[-3.0385716,51.0195911],[-3.0380795,51.0195305],[-3.0377956,51.0195092],[-3.0367938,51.0193674]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0272383,51.0341587],[-3.0273864,51.0343487],[-3.0276214,51.0345749],[-3.0282455,51.035045]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0350145,51.0234689],[-3.0348749,51.0234947],[-3.0347022,51.0235094],[-3.0340449,51.0235395],[-3.033188,51.0235696],[-3.0328833,51.0235579],[-3.0326907,51.023552],[-3.0325634,51.0235557],[-3.0324093,51.0235909],[-3.0323393,51.0236188]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Charlton Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.026268,51.0327549],[-3.0263393,51.0327572],[-3.0267192,51.0326917],[-3.0275804,51.0325252],[-3.0285351,51.0323525],[-3.028677,51.0323532]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0390266,51.0243885],[-3.0390103,51.0242465],[-3.0389897,51.0241487],[-3.0389591,51.0240483],[-3.0389234,51.02397],[-3.0388741,51.0238619]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0382475,51.024288],[-3.038185,51.0243299]]]}}
+]
+}

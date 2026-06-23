@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "FORDE_88_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5968041,51.7127925],[-2.5964755,51.7135133]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5962615,51.7126385],[-2.5959948,51.7129635]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5959948,51.7129635],[-2.59585,51.7131468],[-2.5958161,51.7132327],[-2.5957021,51.7135821]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5968041,51.7127925],[-2.5973043,51.7120561],[-2.5977337,51.7113679],[-2.5981089,51.7108907]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5971288,51.7019834],[-2.597281,51.7018908],[-2.5980374,51.7008894],[-2.5983639,51.7007615],[-2.5984541,51.7006595]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6011129,51.7084709],[-2.6008036,51.7083284]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5959339,51.7063654],[-2.5958928,51.7064057],[-2.5958257,51.706512]]]}}
+]
+}

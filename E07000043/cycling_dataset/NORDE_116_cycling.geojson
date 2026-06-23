@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "NORDE_116_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.0423384,51.1036651],[-4.0398031,51.1037301],[-4.0387255,51.1037331],[-4.0367323,51.1039367],[-4.0343192,51.1044727],[-4.0321611,51.1048589],[-4.0316699,51.1048409],[-4.030298,51.1051523],[-4.0286291,51.1050056],[-4.0283093,51.1048916]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.0281969,51.1048515],[-4.0280664,51.104805],[-4.0271605,51.1047691],[-4.025316,51.1045003]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.0283093,51.1048916],[-4.0281969,51.1048515]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.0407765,51.115422],[-4.0408182,51.1153805],[-4.0408023,51.1152905],[-4.0403793,51.1149723],[-4.0399235,51.1141645],[-4.0396567,51.1135078],[-4.0396567,51.1130153],[-4.0401315,51.1122592],[-4.0403517,51.1117581],[-4.0404137,51.1112223],[-4.0403655,51.1109631],[-4.0405717,51.1109359],[-4.0407402,51.1112182],[-4.0410296,51.1112863]]]}}
+]
+}

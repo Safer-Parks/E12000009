@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "STROU_32_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.22983,51.6911483],[-2.229744,51.6913332],[-2.229728,51.691591]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2267731,51.6919229],[-2.2259601,51.6919821],[-2.2253451,51.6920052],[-2.2246835,51.692138],[-2.2242076,51.6922679]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2432762,51.686429],[-2.2424562,51.6865842],[-2.2415049,51.6867346],[-2.2409527,51.686848],[-2.2399449,51.6871008],[-2.2397922,51.6872095],[-2.2380821,51.6876871],[-2.236587,51.6883276],[-2.2362429,51.6884223],[-2.236163,51.6884443],[-2.2359836,51.6884714]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2322002,51.6929252],[-2.2322347,51.6929698],[-2.2323554,51.6930064],[-2.2326598,51.6930372],[-2.2326752,51.6930923]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.236862,51.6932893],[-2.236763,51.6932053],[-2.2366834,51.693112],[-2.2366522,51.6930347],[-2.2366592,51.6927944]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2429062,51.6902852],[-2.2428683,51.6902813],[-2.2428333,51.6902777]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2427634,51.6904191],[-2.2430885,51.6903844],[-2.2433774,51.6903469],[-2.2434333,51.6902935],[-2.2435498,51.690167]]]}}
+]
+}

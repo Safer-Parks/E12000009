@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SOMER_374_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Netherfield Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.803189,50.959348],[-2.8031577,50.9593656],[-2.8029055,50.9595071],[-2.8023291,50.9597954],[-2.8016266,50.9601475],[-2.801187,50.9604076]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7996479,50.9543115],[-2.7995511,50.9543685],[-2.799398,50.9544676]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7981994,50.9572495],[-2.7981339,50.9572558],[-2.7979816,50.9572463]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.801187,50.9604076],[-2.8008944,50.9605807]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7912993,50.9552002],[-2.7889696,50.9557837]]]}}
+]
+}

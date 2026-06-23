@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WILTS_384_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1817807,51.381603],[-2.1818357,51.381554],[-2.182073,51.3813703],[-2.181991,51.381254],[-2.1819711,51.3811795],[-2.1820011,51.3811089],[-2.1820301,51.381079],[-2.1821684,51.3809393],[-2.1822166,51.3808836],[-2.1822609,51.3808325]]]}}
+]
+}

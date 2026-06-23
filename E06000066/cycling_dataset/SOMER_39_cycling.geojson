@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOMER_39_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3372547,51.1733372],[-3.337108,51.1732792],[-3.3369364,51.1732321],[-3.3367486,51.1732153],[-3.3365394,51.1732287],[-3.3363583,51.1732444],[-3.3359386,51.1732254],[-3.3354236,51.1731648],[-3.3349958,51.1731334]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3372547,51.1733372],[-3.3373391,51.1733796]]]}}
+]
+}

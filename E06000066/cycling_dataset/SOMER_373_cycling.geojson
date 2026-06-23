@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SOMER_373_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7926742,50.9466661],[-2.7925963,50.9466112],[-2.7925272,50.9465931],[-2.7921822,50.9466027],[-2.7921207,50.946627],[-2.7920766,50.9466707]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8019266,50.9423976],[-2.7999625,50.9434732],[-2.7996216,50.9436589],[-2.7996989,50.9437361],[-2.7996968,50.9437577],[-2.7995659,50.9438321],[-2.799523,50.9438321],[-2.7993792,50.9437347],[-2.7993749,50.9436942],[-2.7994908,50.9436252],[-2.7995509,50.9436279],[-2.7996216,50.9436589]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Hams Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7895319,50.9464891],[-2.7895799,50.9466501],[-2.7897194,50.9470219],[-2.7898696,50.9473801],[-2.7899661,50.9477857],[-2.7899769,50.9480358],[-2.7899983,50.9482994],[-2.7902687,50.9491375],[-2.7903987,50.9494092],[-2.7906099,50.949631]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8008431,50.9415531],[-2.8006951,50.9414196],[-2.8006747,50.9413682],[-2.8006616,50.9412967]]]}}
+]
+}

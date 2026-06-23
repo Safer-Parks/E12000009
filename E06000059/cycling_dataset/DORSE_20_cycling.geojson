@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "DORSE_20_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0393183,50.8179866],[-2.0394119,50.8175868],[-2.0395404,50.8167094],[-2.0398872,50.8153011],[-2.0406035,50.8128171],[-2.0406908,50.8125138],[-2.040784,50.8122935],[-2.0410241,50.8119417],[-2.0411666,50.8116581],[-2.0413765,50.8112525],[-2.041478,50.8109951],[-2.0415768,50.8104623],[-2.0417395,50.8098264],[-2.0418817,50.8093418],[-2.0419337,50.8088739],[-2.0418916,50.8086751]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0399442,50.8068626],[-2.0418916,50.8086751]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0531584,50.8108367],[-2.053076,50.8110559],[-2.0513902,50.8137687],[-2.0498285,50.8163467],[-2.0498052,50.8165346],[-2.0497557,50.8166009],[-2.0490619,50.8164443],[-2.0489861,50.8164701],[-2.0487879,50.8167556],[-2.0469604,50.8193035]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Sweetbrier Drove","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0418916,50.8086751],[-2.0473945,50.8093541],[-2.0496627,50.8096209],[-2.0522729,50.8104053],[-2.0531584,50.8108367]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Sweetbrier Drove","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0531584,50.8108367],[-2.0537624,50.8111309],[-2.0551854,50.8118113],[-2.0565791,50.8123191],[-2.0570673,50.8124323]]]}}
+]
+}

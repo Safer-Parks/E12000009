@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NORDE_206_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.9390494,51.1219452],[-3.9391091,51.1218482],[-3.9391584,51.1216839]]]}}
+]
+}

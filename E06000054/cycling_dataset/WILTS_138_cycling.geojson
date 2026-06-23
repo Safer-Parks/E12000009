@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WILTS_138_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2195022,51.2964099],[-2.2181661,51.2959854],[-2.2178113,51.2958736]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2178113,51.2958736],[-2.2176595,51.295815],[-2.2171783,51.2956689],[-2.2170051,51.2956104],[-2.2168578,51.2955366]]]}}
+]
+}

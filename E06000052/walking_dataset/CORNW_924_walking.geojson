@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CORNW_924_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.0508824,50.3795021],[-5.0506398,50.3794146],[-5.0501552,50.3791981],[-5.0496404,50.3789265],[-5.0489077,50.3784535],[-5.0479537,50.3779199],[-5.0476902,50.3778326],[-5.0470543,50.3776167],[-5.0465561,50.3774445],[-5.0461745,50.3772532],[-5.0457682,50.3769674],[-5.0453605,50.3766328],[-5.0448001,50.3762717]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.0415597,50.3751553],[-5.0415424,50.37519],[-5.0413286,50.3753221],[-5.0412601,50.3755019],[-5.041324,50.3755121],[-5.0412533,50.3756894],[-5.0411622,50.375711],[-5.041115,50.3757717]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.0412601,50.3755019],[-5.0412525,50.3755234]]]}}
+]
+}

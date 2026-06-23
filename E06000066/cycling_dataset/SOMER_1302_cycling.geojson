@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "SOMER_1302_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3136887,51.1608341],[-3.3137475,51.1608519],[-3.3139253,51.1610057],[-3.3139976,51.1609886],[-3.3143836,51.1609579],[-3.3149661,51.1609418],[-3.3153166,51.1609064]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.309875,51.1569937],[-3.3098298,51.1570791],[-3.3098825,51.1572573],[-3.3099337,51.1574242],[-3.3099908,51.1575708],[-3.3100621,51.1577088],[-3.3101196,51.1578264],[-3.3101644,51.1579084],[-3.3101631,51.1579439],[-3.3101651,51.1579919]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3162768,51.1612152],[-3.3166535,51.1612398],[-3.3170202,51.1612194],[-3.3173963,51.1611786],[-3.3177538,51.1611233],[-3.3179534,51.161135],[-3.3181391,51.1611524]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3181391,51.1611524],[-3.318752,51.1610942],[-3.3188095,51.1610882]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Mamsey Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3269495,51.1594419],[-3.3269575,51.159537],[-3.326944,51.1596104],[-3.3269172,51.1596971],[-3.3269229,51.1597561],[-3.3269556,51.1601185],[-3.3269786,51.160499],[-3.3269863,51.1608001],[-3.3270074,51.1609253],[-3.3270631,51.1610216],[-3.3271168,51.1610915],[-3.3271456,51.1611517],[-3.3271572,51.1612793],[-3.3272013,51.1616453],[-3.3271917,51.1617284],[-3.3271725,51.1618488],[-3.3271802,51.1620499],[-3.3271917,51.1621667],[-3.3272139,51.162198]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3136621,51.1653071],[-3.3137431,51.1652849],[-3.3138174,51.1652897]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3139253,51.1610057],[-3.3139341,51.1610465]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Mamsey Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3272139,51.162198],[-3.3273088,51.162251],[-3.3274452,51.1622738],[-3.3277312,51.1622991]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3141454,51.1664063],[-3.31425,51.1667718],[-3.3142239,51.1668257],[-3.3141529,51.1668538],[-3.3139101,51.1668772],[-3.3138129,51.1668936],[-3.3136336,51.1669779],[-3.3134879,51.1670669],[-3.3134057,51.1671513],[-3.3133758,51.1672192],[-3.3133646,51.1672778],[-3.3133347,51.1673317],[-3.3133088,51.167356],[-3.3132152,51.1673803],[-3.3130485,51.1673975],[-3.3128658,51.1674047],[-3.3127059,51.1673932],[-3.3125849,51.1673617],[-3.3124889,51.1673216],[-3.3124155,51.1672887]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3137756,51.1563925],[-3.3137521,51.1572674]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.312177,51.1559812],[-3.3122964,51.1567012],[-3.3123407,51.1571865]]]}}
+]
+}

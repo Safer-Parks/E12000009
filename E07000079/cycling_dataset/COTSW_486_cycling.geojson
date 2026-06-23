@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "COTSW_486_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1506209,51.850081],[-2.1506247,51.8501431],[-2.1507011,51.8501928],[-2.1508882,51.8502395],[-2.1512416,51.8502881],[-2.1514924,51.8503072],[-2.1515531,51.8503171]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1486187,51.843406],[-2.1479593,51.8432311]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Nightjar Road","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1458119,51.8466801],[-2.14607,51.8464699],[-2.1461509,51.8464176],[-2.1462682,51.8464306],[-2.1463801,51.8464548],[-2.1464652,51.8465038]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1473242,51.8463999],[-2.1473156,51.8464742]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1463886,51.8464424],[-2.1463801,51.8464548]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1537169,51.8518186],[-2.1542187,51.8517335],[-2.1543385,51.8516927],[-2.1544639,51.8515925],[-2.1546798,51.851388]]]}}
+]
+}

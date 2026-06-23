@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "SOMER_1186_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3026832,51.2852746],[-2.3013828,51.2852593],[-2.300734,51.2852652],[-2.3001233,51.2852975]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2941126,51.2972528],[-2.2941348,51.2972167],[-2.294281,51.2971404],[-2.2946082,51.2970272],[-2.2949703,51.2969358],[-2.2952587,51.2968771],[-2.2954585,51.2968402],[-2.2955937,51.2968367]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2802551,51.2917107],[-2.2799392,51.2916428]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2854334,51.2857456],[-2.2852984,51.2857705],[-2.2851929,51.2857934],[-2.2848034,51.2859436],[-2.284676,51.2859796],[-2.284633,51.2859835],[-2.2845607,51.2859682],[-2.2844797,51.2859592],[-2.284383,51.2859601],[-2.2842629,51.2859756],[-2.2841814,51.2860008],[-2.2841348,51.2860259],[-2.2841047,51.2860617],[-2.2840776,51.2861158],[-2.2840469,51.2861399],[-2.2839207,51.2862138]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2876752,51.2840155],[-2.2864856,51.2832687],[-2.2864148,51.2832207]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2839207,51.2862138],[-2.2838474,51.2862536],[-2.2838007,51.2863071],[-2.2837877,51.2863832],[-2.2838007,51.2864676],[-2.2838474,51.2865422],[-2.2839044,51.2866054],[-2.2839511,51.2866654],[-2.2839666,51.2867206],[-2.2839718,51.2867708],[-2.2839089,51.2868639]]]}}
+]
+}

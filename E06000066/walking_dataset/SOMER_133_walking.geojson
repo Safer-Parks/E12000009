@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SOMER_133_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9300033,51.155784],[-2.9299407,51.1558438],[-2.9296197,51.155954],[-2.9286003,51.1559353],[-2.9279782,51.1559561],[-2.9267309,51.1560227],[-2.9245314,51.1559184],[-2.9240193,51.1558712],[-2.9233137,51.155984],[-2.9222249,51.1559704],[-2.9214737,51.1560513],[-2.9210378,51.1560539]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9215412,51.1580746],[-2.9215625,51.1579202],[-2.9215625,51.1578651],[-2.9215557,51.1578399],[-2.921531,51.1578185],[-2.9214653,51.1577538],[-2.9210593,51.1577163],[-2.9208594,51.1577295]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9186406,51.1520395],[-2.9186207,51.1520873],[-2.9198404,51.1531031],[-2.9202012,51.1534051],[-2.9210407,51.1540864],[-2.9211267,51.1540922]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9198222,51.1575995],[-2.9198673,51.1575854],[-2.9199665,51.1575577],[-2.9207014,51.1576426],[-2.9208086,51.1576507]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9203021,51.1605699],[-2.9194113,51.1605229],[-2.919135,51.1605061],[-2.9184556,51.1603475]]]}}
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "EASDE_72_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Featherbed Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.1426715,50.7943371],[-3.1417322,50.7938408],[-3.1394948,50.7926462],[-3.1392202,50.7924996],[-3.1389811,50.7924127],[-3.1388011,50.7923473],[-3.1380404,50.7920256],[-3.1373828,50.79167],[-3.1371324,50.7915162],[-3.1356528,50.7909875],[-3.135215,50.7908036]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.1416344,50.7908021],[-3.1416195,50.7907214],[-3.141588,50.790611],[-3.1413545,50.7900406]]]}}
+]
+}

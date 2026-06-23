@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "CORNW_1169_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"CSM Test Mine","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.2836465,50.186703],[-5.284133,50.1842972],[-5.2841518,50.1838279],[-5.2832695,50.1837528]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.2848913,50.1884609],[-5.2850856,50.1882501]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.2844559,50.1891658],[-5.2844831,50.1890975],[-5.284595,50.1889288],[-5.284674,50.1888002],[-5.2847563,50.1886379],[-5.2848913,50.1884609]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.2849484,50.1861878],[-5.2849827,50.1861172],[-5.2850138,50.1860484],[-5.2850166,50.186005],[-5.285011,50.1859435],[-5.2849827,50.185891],[-5.2849177,50.1857824],[-5.2848697,50.1857371]]]}}
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "FORDE_35_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5672815,51.7079306],[-2.5674115,51.7082911],[-2.5670253,51.7089825],[-2.5667249,51.7096474],[-2.566167,51.7098867],[-2.5648795,51.710126],[-2.5635491,51.7102324],[-2.5633643,51.7103855]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5653789,51.7113352],[-2.5653781,51.7114021],[-2.5657774,51.711769],[-2.5660218,51.71217]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.554532,51.7131754],[-2.5553233,51.7134022]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5557323,51.7142076],[-2.5556587,51.7142073],[-2.555611,51.7142035],[-2.5549874,51.7139061],[-2.554883,51.7138563]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5529758,51.7153961],[-2.5537463,51.7154469],[-2.553895,51.7154721],[-2.5540118,51.715505],[-2.5541091,51.7155423],[-2.5541799,51.7155894],[-2.5542644,51.7155861]]]}}
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "MIDDE_283_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.2626617,50.8856687],[-3.2629121,50.8856358],[-3.2630112,50.8856512],[-3.2631198,50.885736]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.2629121,50.8856358],[-3.2629552,50.885593],[-3.2628534,50.8854221],[-3.2627508,50.88532],[-3.2627572,50.8852875],[-3.2627853,50.8852637],[-3.2628951,50.8852205]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.2631198,50.885736],[-3.2632155,50.8857626],[-3.2632972,50.8857985],[-3.2634481,50.8859044],[-3.2634982,50.8859322]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.2651107,50.8862851],[-3.2650344,50.8862506],[-3.2650238,50.8861858],[-3.2650504,50.8859246],[-3.2651424,50.8858297]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.2647203,50.8861415],[-3.2648292,50.8861802],[-3.2650344,50.8862506]]]}}
+]
+}

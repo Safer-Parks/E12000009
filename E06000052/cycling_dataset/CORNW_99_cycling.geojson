@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "CORNW_99_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":"Portreath Branchline Trail","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.2698271,50.2355434],[-5.2698782,50.2355443],[-5.2699667,50.2355182],[-5.2699728,50.2355051],[-5.269959,50.2354839],[-5.270128,50.23526],[-5.27031,50.2350399],[-5.2707405,50.2346105],[-5.2709565,50.2343811],[-5.2712475,50.2341246],[-5.2718203,50.2336685],[-5.2718684,50.2335885],[-5.2719636,50.2335147],[-5.2721735,50.2333988],[-5.2725443,50.2332016],[-5.2729055,50.2329829],[-5.273376,50.2325143],[-5.2735582,50.232345],[-5.2736179,50.2322829],[-5.2737069,50.2321296],[-5.2737885,50.2320389]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.2757121,50.2480865],[-5.2756872,50.2480492],[-5.2755518,50.2479343],[-5.2754104,50.2478046],[-5.2752735,50.247686],[-5.2751239,50.2474637],[-5.2748457,50.2471753],[-5.27461,50.246899]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.2639546,50.2384823],[-5.2639297,50.2384906]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.2647779,50.2381367],[-5.2647311,50.2381589],[-5.264149,50.2384119],[-5.2639546,50.2384823]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.2639297,50.2384906],[-5.2636622,50.2385912],[-5.2634396,50.2387018],[-5.2632599,50.2388035],[-5.2630775,50.2388132]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.2633457,50.2376545],[-5.2633068,50.2376545],[-5.2632265,50.2376644]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.2638687,50.2376274],[-5.2638285,50.2376378],[-5.2636354,50.2376742],[-5.2635978,50.2376639],[-5.2635442,50.2376541],[-5.263506,50.2376734],[-5.2633551,50.2376751]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.2693102,50.2403068],[-5.2692117,50.2403152],[-5.2688479,50.2403327],[-5.2685448,50.2403246],[-5.2684411,50.240322]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Treforthian","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.2669098,50.2436669],[-5.2668873,50.2436677],[-5.2668647,50.2436684]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.2695062,50.2402447],[-5.2693785,50.2402909],[-5.2693102,50.2403068]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-5.2685831,50.2497236],[-5.2686712,50.2498377],[-5.26904,50.250197],[-5.2691111,50.2502725],[-5.2690695,50.2503239]]]}}
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "FORDE_41_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6698239,51.7263265],[-2.6698591,51.7265284],[-2.6699347,51.7271974],[-2.6700759,51.7276758],[-2.6703446,51.7283099],[-2.6703605,51.7284108],[-2.6701864,51.7288363],[-2.6702242,51.728979],[-2.6703127,51.7290761],[-2.6703314,51.7291351],[-2.6702486,51.7293723]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6783192,51.7335386],[-2.6763967,51.7340709],[-2.6750382,51.7344603],[-2.6742376,51.734796],[-2.6729911,51.7354218],[-2.671814,51.7361174],[-2.6712688,51.7365463],[-2.6708817,51.7369341],[-2.6707796,51.7371545]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6702486,51.7293723],[-2.6706929,51.7294563],[-2.6714187,51.7293368],[-2.6718986,51.7290668],[-2.6723884,51.7287992],[-2.6727436,51.7286534],[-2.6735839,51.7280943]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6698482,51.7263113],[-2.6710336,51.7265696]]]}}
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TEIGN_16_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5124225,50.5495022],[-3.5128214,50.5493141]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5104212,50.5572886],[-3.5104486,50.5573441],[-3.5107221,50.557898],[-3.5107622,50.5580225],[-3.5107817,50.5581578],[-3.5107972,50.5585012],[-3.5107093,50.5587481],[-3.5108031,50.5590327],[-3.5110223,50.5593738]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5038544,50.5605181],[-3.5031447,50.5605962],[-3.5028631,50.5606967],[-3.502788,50.5607665],[-3.5028054,50.5608126],[-3.5028524,50.5608466],[-3.5030562,50.5608858],[-3.5030938,50.5609489],[-3.5031206,50.5611687]]]}}
+]
+}

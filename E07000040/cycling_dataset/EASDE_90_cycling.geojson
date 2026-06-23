@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "EASDE_90_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.1902618,50.8087901],[-3.1905142,50.8086849],[-3.190879,50.8086419],[-3.1914369,50.8083273],[-3.1924497,50.8081972]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.1914873,50.8076756],[-3.1910603,50.8078678],[-3.1905872,50.8081023],[-3.1904273,50.8082068]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.1942278,50.8183341],[-3.1939097,50.8184302],[-3.1935149,50.8185804],[-3.1931607,50.8186828],[-3.1928621,50.8187563],[-3.1926444,50.8188266],[-3.1925179,50.8189002],[-3.1921485,50.8190313]]]}}
+]
+}

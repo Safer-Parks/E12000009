@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "FORDE_36_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5653789,51.7113352],[-2.5653781,51.7114021],[-2.5657774,51.711769],[-2.5660218,51.71217]]]}}
+]
+}

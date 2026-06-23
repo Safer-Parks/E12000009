@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WILTS_220_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2331681,51.0752414],[-2.2331334,51.0751273],[-2.2329873,51.0748277]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2328157,51.0757419],[-2.2327566,51.0756661],[-2.2326815,51.0756307],[-2.2325496,51.0756451]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2326762,51.0755557],[-2.2326815,51.0756307]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2331334,51.0751273],[-2.2327282,51.0751655],[-2.2325197,51.0751612]]]}}
+]
+}

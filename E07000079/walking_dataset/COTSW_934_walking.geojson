@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "COTSW_934_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9484008,52.0054131],[-1.9485444,52.0055826],[-1.948648,52.0057392],[-1.9487162,52.0060182],[-1.9487074,52.006276],[-1.9487534,52.0067007],[-1.9488348,52.0069289],[-1.9490045,52.0073855],[-1.9490301,52.0075995],[-1.949044,52.0082055],[-1.9489741,52.0091831],[-1.9488866,52.0102666]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9484008,52.0054131],[-1.9481289,52.0051957],[-1.9473994,52.0047202],[-1.9466269,52.0042182],[-1.9458973,52.0036898],[-1.9452965,52.0032671],[-1.9447399,52.0027509],[-1.9441435,52.002159]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9449567,51.9905251],[-1.9457385,51.9908974],[-1.9473693,51.9917166],[-1.9483384,51.9921808],[-1.948528,51.9922716],[-1.9492819,51.9926118]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Nursery Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9493966,51.9905402],[-1.9491497,51.9909278],[-1.9488855,51.991354],[-1.9488567,51.9913962],[-1.9484746,51.9919166],[-1.9483384,51.9921808],[-1.9480783,51.9926853],[-1.9436785,51.9938752],[-1.943281,51.9939792],[-1.9431313,51.9940053],[-1.9414712,51.9940175]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.956425,51.9878979],[-1.9560814,51.9881674],[-1.955899,51.988696],[-1.9547081,51.9887984],[-1.9538552,51.9889074],[-1.9506656,51.9907135],[-1.9506295,51.9907568]]]}}
+]
+}

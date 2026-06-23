@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "BOUCH_122_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.8785547,50.7388095],[-1.878518,50.7389697]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.8530048,50.7401211],[-1.85252,50.73983]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.8538845,50.7387863],[-1.8533477,50.7388523],[-1.8532277,50.738867]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.8770612,50.7339539],[-1.8768406,50.7339566],[-1.8753899,50.7340106],[-1.8742579,50.7340694],[-1.8732745,50.7341165],[-1.8731732,50.734113],[-1.8719126,50.7341935],[-1.8704932,50.7342662],[-1.8700691,50.7342662],[-1.8699853,50.7341957],[-1.8699038,50.7341138]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.8744865,50.7467348],[-1.8744317,50.7470164]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Wellington Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.8718602,50.7321699],[-1.8718307,50.7321593],[-1.8710871,50.7318869],[-1.8709013,50.7318264],[-1.8708173,50.7317817],[-1.8706839,50.7317107],[-1.8703416,50.7315286]]]}}
+]
+}

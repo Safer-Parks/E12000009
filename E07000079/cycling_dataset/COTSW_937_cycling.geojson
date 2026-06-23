@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "COTSW_937_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6190527,51.9269267],[-1.6204245,51.9280179],[-1.6208085,51.9283192],[-1.6208663,51.9283618],[-1.6210966,51.9285318],[-1.6221072,51.9292775],[-1.624615,51.9312141],[-1.626283,51.9325072],[-1.6271562,51.9325761],[-1.6283976,51.9330978],[-1.6288471,51.9332805]]]}}
+]
+}

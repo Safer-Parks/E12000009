@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "STROU_51_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.182389,51.758149],[-2.1824545,51.7581045],[-2.1825654,51.7581247]]]}}
+]
+}

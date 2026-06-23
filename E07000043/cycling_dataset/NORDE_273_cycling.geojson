@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "NORDE_273_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.0713774,51.0903205],[-4.0714709,51.0903068],[-4.0714952,51.0902333],[-4.0716056,51.090189],[-4.0719279,51.0900697],[-4.0719588,51.0899948],[-4.0720051,51.089895],[-4.0720956,51.0898645],[-4.0724113,51.089773]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.0769834,51.0872745],[-4.0769031,51.0872108],[-4.0768509,51.0871694],[-4.0767055,51.087066],[-4.0766741,51.0870452],[-4.0764507,51.0868975],[-4.0760578,51.0867051],[-4.0759727,51.0866662]]]}}
+]
+}

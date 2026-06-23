@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOMER_1128_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Church Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.1129164,51.1236814],[-3.1130854,51.1235013],[-3.1133161,51.1233296],[-3.113548,51.1232059]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.1122016,51.1261611],[-3.1131745,51.1260921],[-3.1145194,51.1259162],[-3.1164808,51.1255381],[-3.1164715,51.1254736],[-3.1164563,51.1254255]]]}}
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CORNW_850_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.7273635,50.5462325],[-4.7275262,50.5461679],[-4.7276243,50.5461379],[-4.727696,50.5461115],[-4.7278978,50.5460816],[-4.7282806,50.5460516],[-4.72839,50.5460564],[-4.7285013,50.5460948],[-4.7286088,50.546102],[-4.7287333,50.546108],[-4.7288276,50.5461439],[-4.7289332,50.5461966]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.7285013,50.5460948],[-4.7284636,50.5461859],[-4.7283806,50.5462853],[-4.7282561,50.5463932],[-4.7281562,50.5464651],[-4.7279958,50.5465538],[-4.7278412,50.5466892]]]}}
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SOMER_354_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Butts Quarry Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7803866,50.8865043],[-2.7804392,50.8865647],[-2.7805415,50.8867118],[-2.7808883,50.8871645],[-2.7812784,50.8876081],[-2.781813,50.8880821],[-2.7821068,50.8882948],[-2.7826029,50.8886108],[-2.782884,50.8887345]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Middle Hill Lane","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7871501,50.8901678],[-2.7871244,50.8902867],[-2.7870843,50.8903288],[-2.785747,50.8904734],[-2.7852464,50.8905001],[-2.7848948,50.8905885],[-2.7844031,50.8907752],[-2.7839425,50.8909983],[-2.7837066,50.8911499],[-2.7834997,50.8913015],[-2.7834574,50.891345],[-2.783077,50.8915892],[-2.782712,50.8918194],[-2.7823583,50.8919963],[-2.7821914,50.8920931],[-2.7821691,50.8921619],[-2.7821313,50.8922994]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Butts Quarry Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7747275,50.8863487],[-2.7751277,50.886338],[-2.776669,50.8863654],[-2.7775215,50.886414],[-2.7779502,50.8864413],[-2.7783933,50.886411],[-2.7794866,50.886411],[-2.7803866,50.8865043]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Bincombe Beeches Park","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.789962,50.8864632],[-2.7906111,50.8871548],[-2.7909545,50.8870838],[-2.7910993,50.8871887],[-2.7919361,50.8871007],[-2.7922807,50.8875549],[-2.7926356,50.8878583],[-2.7934996,50.888147],[-2.7938335,50.8881986],[-2.7940534,50.8884402]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Williams Cottages","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7864629,50.8794722],[-2.7862822,50.879631]]]}}
+]
+}
