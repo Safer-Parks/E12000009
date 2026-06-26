@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SWIND_41",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1786487252, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.7429043, 51.5828886 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1786487255, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.7427668, 51.5829183 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1786487349, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.7424117, 51.5832263 ] } }
+]
+}

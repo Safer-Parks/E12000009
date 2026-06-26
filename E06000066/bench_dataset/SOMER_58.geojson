@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOMER_58",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13391852505, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.7759695, 51.2708543 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13391852506, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.7757433, 51.2705389 ] } }
+]
+}

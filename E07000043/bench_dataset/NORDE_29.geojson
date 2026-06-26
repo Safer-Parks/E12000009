@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "NORDE_29",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13408524570, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.8470639, 51.2312086 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13409122187, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.8473832, 51.2319761 ] } }
+]
+}

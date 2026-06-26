@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BATNO_73",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11504516736, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.3519705, 51.3932397 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11504516735, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.3516433, 51.3933568 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11504516737, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.3516996, 51.3933744 ] } }
+]
+}

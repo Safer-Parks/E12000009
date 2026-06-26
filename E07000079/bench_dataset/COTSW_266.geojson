@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "COTSW_266",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 863263197, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.0763657, 52.1102407 ] } },
+{ "type": "Feature", "properties": { "osm_id": 863263202, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.076041, 52.1104111 ] } },
+{ "type": "Feature", "properties": { "osm_id": 863263204, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.0760327, 52.1105638 ] } }
+]
+}

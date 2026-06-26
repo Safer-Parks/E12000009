@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "FORDE_80",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11455395059, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.5536142, 51.7531854 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11455395051, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.5533089, 51.7532437 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11455395047, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.5535797, 51.7532901 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TORRI_172",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9387807628, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -4.2514044, 50.6808195 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9387808591, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -4.2514501, 50.6808416 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9387807836, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -4.2513713, 50.6811351 ] } }
+]
+}

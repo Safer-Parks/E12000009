@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "TORBA_26",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12496964009, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.5516455, 50.4692482 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12496964011, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.551923, 50.4693097 ] } }
+]
+}

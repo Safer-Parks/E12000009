@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BRIST_187",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12495998620, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.5985595, 51.439833 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12496178472, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.598298, 51.4399097 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12496194803, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.598526, 51.4400682 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12495998621, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.5988102, 51.4400942 ] } }
+]
+}

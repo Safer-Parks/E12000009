@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BRIST_13",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13108497796, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.5737196, 51.4240263 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13108513127, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.5732498, 51.4241602 ] } }
+]
+}

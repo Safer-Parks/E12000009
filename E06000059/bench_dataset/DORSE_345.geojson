@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DORSE_345",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11386539694, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.5169477, 50.9462334 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4498711335, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.516598, 50.9464042 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4498711811, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.5165504, 50.946419 ] } }
+]
+}

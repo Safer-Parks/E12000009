@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOUGL_377",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12079624925, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.4706542, 51.4567542 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12079580021, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.4705861, 51.4567611 ] } }
+]
+}

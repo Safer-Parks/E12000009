@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "TEIGN_22",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11263321042, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.6455143, 50.5669693 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11263321041, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.6463545, 50.5675954 ] } }
+]
+}

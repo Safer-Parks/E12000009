@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "TEWKE_53",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8873257174, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1584099, 51.9939018 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8873257173, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1585212, 51.9939075 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8873257176, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1583138, 51.9939259 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8873257177, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1582752, 51.9940523 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8873257178, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1583331, 51.9941212 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8873257179, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1584399, 51.9941312 ] } }
+]
+}

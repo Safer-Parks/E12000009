@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "EASDE_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 10913836924, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.4417702, 50.6720196 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10913836923, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.4417504, 50.6722389 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10913836922, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.4419559, 50.6723351 ] } }
+]
+}
