@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NORSO_38",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 6384340112, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.7882086, 51.4846528 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6384338938, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.786735, 51.4849128 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6384338934, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.7854248, 51.4851505 ] } }
+]
+}

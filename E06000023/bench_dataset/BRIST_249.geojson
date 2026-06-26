@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BRIST_249",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 2675970508, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.6477651, 51.4879919 ] } }
+]
+}

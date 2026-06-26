@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DORSE_616",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 4348405513, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.017655, 50.7836658 ] } }
+]
+}

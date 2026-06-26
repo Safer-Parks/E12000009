@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "PLYMO_67",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9535962249, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -4.0918422, 50.4110743 ] } }
+]
+}

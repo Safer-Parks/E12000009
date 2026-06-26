@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "COTSW_459",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12734527453, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.2283185, 51.8850627 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12734547391, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.2290138, 51.8853208 ] } }
+]
+}

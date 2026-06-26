@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOUHA_126",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9904210615, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.6374608, 50.2987118 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9904210616, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.6373726, 50.2989007 ] } }
+]
+}

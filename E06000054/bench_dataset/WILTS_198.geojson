@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WILTS_198",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8579445094, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.991204, 51.4391836 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8579445093, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.9911229, 51.439325 ] } }
+]
+}

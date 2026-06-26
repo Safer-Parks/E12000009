@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CORNW_748",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 5851335198, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -4.9222358, 50.4079662 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5851335199, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -4.9222504, 50.4080307 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BOUCH_91",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13098617854, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.7809975, 50.7287606 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13098603448, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.7816974, 50.7294808 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11134638381, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.7841859, 50.729178 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11134638379, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.7841505, 50.7291957 ] } }
+]
+}

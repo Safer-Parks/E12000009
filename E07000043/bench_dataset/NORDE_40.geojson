@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "NORDE_40",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12846999769, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -4.1198558, 51.0803474 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12846999768, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -4.1194681, 51.0804498 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12846999770, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -4.1197603, 51.0805123 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12846999767, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -4.1193409, 51.0805329 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12845155098, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -4.1192657, 51.0806183 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12845155097, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -4.1192552, 51.0808628 ] } }
+]
+}

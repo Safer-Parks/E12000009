@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "PLYMO_43",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11534686249, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -4.1122792, 50.3882785 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11534686250, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -4.1122522, 50.3882789 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11534686252, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -4.1121778, 50.3883271 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11534686251, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -4.1122743, 50.3883305 ] } }
+]
+}

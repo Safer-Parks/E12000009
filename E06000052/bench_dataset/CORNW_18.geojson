@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "CORNW_18",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11662913701, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -5.0084627, 50.1573292 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11662913700, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -5.0085367, 50.1573332 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11662913703, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -5.0086156, 50.1573414 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11662913704, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -5.008645, 50.1573812 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11660918740, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -5.0085614, 50.1574024 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11662913706, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -5.0087398, 50.1574975 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11662913708, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -5.0088242, 50.1575618 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11662913707, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -5.0088823, 50.1576118 ] } }
+]
+}

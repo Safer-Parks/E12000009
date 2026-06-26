@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CORNW_78",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12104632874, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -5.4213282, 50.184489 ] } }
+]
+}

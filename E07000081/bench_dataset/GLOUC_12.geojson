@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "GLOUC_12",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 10316717296, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.2577507, 51.8452509 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10316717298, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.2577333, 51.8453277 ] } }
+]
+}

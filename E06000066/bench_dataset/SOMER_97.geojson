@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SOMER_97",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 10300282083, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.7163703, 51.1431984 ] } }
+]
+}

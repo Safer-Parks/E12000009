@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "COTSW_0",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8832704843, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.9769436, 51.6521258 ] } }
+]
+}

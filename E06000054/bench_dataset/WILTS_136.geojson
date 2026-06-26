@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WILTS_136",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11795077015, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.2330669, 51.3038691 ] } }
+]
+}
