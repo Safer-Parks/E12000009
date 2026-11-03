@@ -1,14 +1,16 @@
 # Safer Parks data: `South West` (`E12000009`)
 
+[![Zenodo doi](https://zenodo.org/badge/1269552915.svg)](https://doi.org/10.5281/zenodo.23922702)
+
 Regional dataset for the [Safer Parks Dashboard](https://safer-parks.github.io/), covering parks in South West (England/Wales). The data in this repository is loaded directly by the dashboard from `https://raw.githubusercontent.com/Safer-Parks/E12000009/refs/heads/main`.
 
 ## Citation
 
-> Francesca Pontin, Anna Barker, Melissa Barrientos-Trinanes, Victoria Houlden, Maeve Murphy Quinlan (2026): The Safer Parks Dashboard Data: South West, (Version V0.1.0). University of Leeds. DOI HERE. Accessed: *Insert today's date*.
+> Francesca Pontin, Anna Barker, Melissa Barrientos-Trinanes, Victoria Houlden, Maeve Murphy Quinlan (2026): The Safer Parks Dashboard Data: South West, (Version V0.1.0). University of Leeds. 10.5281/zenodo.23922702. Accessed: *Insert today's date*.
 
 | Field | Value |
 |------------------------------------|------------------------------------|
-| DOI | `[DOI – pending Zenodo release]` |
+| DOI | 10.5281/zenodo.23922702 |
 | Version | V0.1.0 |
 | Release date | 01-11-2026 |
 | Authors / creators | Francesca Pontin, Anna Barker, Melissa Barrientos, Victoria Houlden, Maeve Murphy Quinlan |
