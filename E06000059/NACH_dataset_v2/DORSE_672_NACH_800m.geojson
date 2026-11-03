@@ -1,8 +1,8 @@
 {
 "type": "FeatureCollection",
 "name": "DORSE_672_NACH_800m",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::27700" } },
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "u": "3425", "v": "18420", "name": null, "highway": [ "track" ], "node_count": 4, "total_depth": 2.0859375, "choice": 0.0, "nach": 0.0, "nain": 1.6883881134515821 }, "geometry": { "type": "LineString", "coordinates": [ [ 399755.892434645502362, 86107.764375324506545 ], [ 399751.273574548773468, 86137.065435478376457 ], [ 399752.030493463680614, 86148.029514349094825 ], [ 399744.069349451630842, 86175.251433410012396 ], [ 399746.042138257529587, 86192.82058762878296 ] ] } }
+{ "type": "Feature", "properties": { "u": "3425", "v": "18420", "name": null, "highway": [ "track" ], "node_count": 4, "total_depth": 2.0859375, "choice": 0.0, "nach": 0.0, "nain": 1.6883881134515821 }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0048107, 50.67462220000003 ], [ -2.0048761, 50.6748857 ], [ -2.0048654, 50.6749843 ], [ -2.0049781, 50.675229100000031 ], [ -2.0049502, 50.6753871 ] ] } }
 ]
 }

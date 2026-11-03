@@ -1,9 +1,9 @@
 {
 "type": "FeatureCollection",
 "name": "COTSW_1130_NACH_800m",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::27700" } },
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "u": "12100", "v": "15555", "name": null, "highway": [ "footway" ], "node_count": 6, "total_depth": 8.13671875, "choice": 1.0, "nach": 0.28758338677807255, "nain": 1.0191080946348505 }, "geometry": { "type": "LineString", "coordinates": [ [ 414280.320790337980725, 196060.044831774372142 ], [ 414241.276155216037296, 196052.628247831016779 ], [ 413991.849187901534606, 196120.144911674957257 ], [ 413832.585775430081412, 196218.16970237577334 ] ] } },
-{ "type": "Feature", "properties": { "u": "5272", "v": "5273", "name": [ "The Street" ], "highway": [ "tertiary" ], "node_count": 29, "total_depth": 49.3828125, "choice": 0.0, "nach": 0.0, "nain": 1.1527300996815733 }, "geometry": { "type": "LineString", "coordinates": [ [ 414491.116108181711752, 195773.55619404418394 ], [ 414451.14097291987855, 195720.25815737398807 ] ] } }
+{ "type": "Feature", "properties": { "u": "12100", "v": "15555", "name": null, "highway": [ "footway" ], "node_count": 6, "total_depth": 8.13671875, "choice": 1.0, "nach": 0.28758338677807255, "nain": 1.0191080946348505 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7949238, 51.6631453 ], [ -1.7954886, 51.6630796 ], [ -1.7990921, 51.6636929 ], [ -1.8013909, 51.664578200000015 ] ] } },
+{ "type": "Feature", "properties": { "u": "5272", "v": "5273", "name": [ "The Street" ], "highway": [ "tertiary" ], "node_count": 29, "total_depth": 49.3828125, "choice": 0.0, "nach": 0.0, "nain": 1.1527300996815733 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7918879, 51.660564 ], [ -1.792468, 51.6600858 ] ] } }
 ]
 }
