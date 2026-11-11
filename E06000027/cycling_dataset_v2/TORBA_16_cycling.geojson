@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "TORBA_16_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 27302940, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.5061693, 50.3949255 ], [ -3.5059595, 50.3949807 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 27301924, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.4937357, 50.3987215 ], [ -3.4937028, 50.3987429 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1316338314, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.4937028, 50.3987429 ], [ -3.4935383, 50.398909 ], [ -3.4931624, 50.3991495 ], [ -3.4928467, 50.3993149 ], [ -3.4924859, 50.3994652 ], [ -3.4921846, 50.3995507 ], [ -3.491937, 50.3995938 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 23013058, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.4826862, 50.3997482 ], [ -3.4828263, 50.3997337 ], [ -3.4832725, 50.3998188 ], [ -3.4834395, 50.3998908 ], [ -3.483784, 50.3999697 ], [ -3.4840927, 50.400007 ], [ -3.4842939, 50.4000257 ], [ -3.4844576, 50.4000718 ], [ -3.4845056, 50.4001199 ], [ -3.4845427, 50.4001876 ], [ -3.4847074, 50.400256 ], [ -3.4849105, 50.4002984 ], [ -3.4851761, 50.4003454 ], [ -3.4854347, 50.400373 ], [ -3.4856572, 50.400387 ], [ -3.4858695, 50.4003486 ], [ -3.4860093, 50.4003737 ], [ -3.4861001, 50.4004232 ], [ -3.4861744, 50.4004786 ], [ -3.4862996, 50.4004967 ], [ -3.4864412, 50.4004806 ], [ -3.4866399, 50.4004179 ], [ -3.4868385, 50.4003401 ], [ -3.4870366, 50.4002847 ], [ -3.4871841, 50.4002771 ], [ -3.487391, 50.400275 ], [ -3.487693, 50.4002749 ] ] } }
+]
+}

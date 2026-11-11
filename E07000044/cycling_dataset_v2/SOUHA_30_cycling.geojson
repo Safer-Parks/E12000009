@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOUHA_30_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 96589847, "highway": "cycleway", "name": "Plym Valley Trail", "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -4.086184, 50.4265687 ], [ -4.0861951, 50.42659 ], [ -4.0865035, 50.4271808 ], [ -4.0865862, 50.4276299 ], [ -4.0865304, 50.4282054 ], [ -4.0864132, 50.4287729 ], [ -4.086159, 50.4293449 ], [ -4.085726, 50.4300228 ], [ -4.0852537, 50.4306614 ], [ -4.0842953, 50.4317851 ], [ -4.0830924, 50.4335134 ], [ -4.0825745, 50.4342438 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 30816737, "highway": "tertiary", "name": "Woolwell Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -4.1076373, 50.4346093 ], [ -4.1075653, 50.434641 ], [ -4.1074666, 50.4346845 ], [ -4.1073315, 50.4347429 ], [ -4.1073055, 50.4347645 ] ] } }
+]
+}

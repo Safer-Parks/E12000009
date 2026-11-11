@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "FORDE_38_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 481870201, "highway": "track", "name": null, "category": "Track", "bicycle": "permissive", "access": null, "foot": "permissive", "designatn": null, "segregatd": null, "surface": "compacted" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.5901964, 51.7599707 ], [ -2.5894387, 51.759826 ], [ -2.588845, 51.759717 ], [ -2.5885476, 51.7596373 ], [ -2.588346, 51.759589 ], [ -2.587965, 51.759482 ], [ -2.587684, 51.759428 ], [ -2.587621, 51.7594039 ], [ -2.587423, 51.759328 ], [ -2.58671, 51.7591 ], [ -2.586107, 51.758881 ], [ -2.585354, 51.75865 ], [ -2.5843073, 51.7584106 ], [ -2.584248, 51.758397 ], [ -2.5840567, 51.7583713 ], [ -2.583854, 51.758344 ], [ -2.583306, 51.758333 ], [ -2.582448, 51.758355 ], [ -2.582016, 51.758344 ], [ -2.581875, 51.758353 ], [ -2.5816132, 51.7583884 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 849429250, "highway": "path", "name": null, "category": "Shared path", "bicycle": "permissive", "access": null, "foot": "permissive", "designatn": null, "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.5868884, 51.7623011 ], [ -2.586836, 51.762268 ], [ -2.586718, 51.762198 ], [ -2.585819, 51.761816 ], [ -2.58564, 51.761727 ], [ -2.585101, 51.761606 ], [ -2.584998, 51.761562 ], [ -2.5844512, 51.7614318 ], [ -2.5839517, 51.7612627 ], [ -2.583592, 51.761088 ], [ -2.583504, 51.761031 ], [ -2.583393, 51.760835 ] ] } }
+]
+}

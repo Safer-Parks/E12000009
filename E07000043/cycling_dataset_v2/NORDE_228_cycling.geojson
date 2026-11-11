@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "NORDE_228_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 218146715, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -4.0069442, 51.1182636 ], [ -4.006834, 51.1181116 ], [ -4.0066466, 51.1180044 ], [ -4.006542, 51.1178966 ], [ -4.0063033, 51.1172703 ], [ -4.0062416, 51.1169656 ], [ -4.0061933, 51.1168157 ], [ -4.0061209, 51.1167164 ], [ -4.0059542, 51.1165424 ], [ -4.0047526, 51.1161181 ], [ -4.0039962, 51.1159363 ], [ -4.0030199, 51.1158655 ], [ -4.0026394, 51.1158139 ], [ -4.0022957, 51.1157443 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1378387564, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": "compacted" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.9950109, 51.1271301 ], [ -3.9956439, 51.1268742 ], [ -3.9963064, 51.1265207 ], [ -3.9974329, 51.1258861 ], [ -3.9982456, 51.1254551 ], [ -3.9984307, 51.1253356 ], [ -3.9985715, 51.1253356 ] ] } }
+]
+}

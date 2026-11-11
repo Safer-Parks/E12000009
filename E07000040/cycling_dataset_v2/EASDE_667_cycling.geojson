@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "EASDE_667_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 636572619, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.9916287, 50.7129699 ], [ -2.9915447, 50.7130081 ], [ -2.9914312, 50.7130597 ], [ -2.9911813, 50.7132196 ], [ -2.9909849, 50.7134648 ], [ -2.9908594, 50.7136318 ], [ -2.9906898, 50.7138463 ], [ -2.990537, 50.7139794 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 532934946, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.9955377, 50.7114727 ], [ -2.9954126, 50.7115078 ], [ -2.9953325, 50.7115464 ], [ -2.994939, 50.711736 ], [ -2.9946998, 50.7118106 ], [ -2.9941801, 50.7119996 ], [ -2.9936358, 50.7120963 ], [ -2.9927796, 50.7123989 ], [ -2.9920417, 50.7127481 ], [ -2.9918434, 50.7128546 ], [ -2.9916287, 50.7129699 ] ] } }
+]
+}

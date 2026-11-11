@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CORNW_995_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 90527214, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -4.520546, 50.8190136 ], [ -4.5213974, 50.8189303 ], [ -4.5220594, 50.8188665 ], [ -4.5224882, 50.8188426 ], [ -4.523188, 50.8189104 ], [ -4.526251, 50.8192876 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 695608991, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -4.5286292, 50.8246934 ], [ -4.5286269, 50.8246491 ], [ -4.5285049, 50.8246525 ], [ -4.5284875, 50.8246082 ], [ -4.5284692, 50.8245616 ], [ -4.5284213, 50.8244392 ], [ -4.5282076, 50.8239109 ], [ -4.5281391, 50.8238976 ] ] } }
+]
+}

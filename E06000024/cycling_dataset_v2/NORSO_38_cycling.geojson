@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "NORSO_38_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 251197502, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7948399, 51.4797905 ], [ -2.7953574, 51.4802839 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 27175340, "highway": "track", "name": "Newlands Hill", "category": "Track", "bicycle": "yes", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7764412, 51.4802338 ], [ -2.7762942, 51.4801572 ], [ -2.7761299, 51.4800716 ], [ -2.7760292, 51.4800211 ], [ -2.7759406, 51.4799938 ], [ -2.7758435, 51.4799665 ], [ -2.775643, 51.4799187 ], [ -2.7755449, 51.4799104 ], [ -2.7754485, 51.4799083 ], [ -2.7753658, 51.4799118 ], [ -2.7752328, 51.4799271 ], [ -2.7750636, 51.4799595 ], [ -2.7748719, 51.4800038 ], [ -2.7746092, 51.4800684 ], [ -2.7743239, 51.4801701 ], [ -2.7742508, 51.4801936 ], [ -2.7741804, 51.4802133 ] ] } }
+]
+}

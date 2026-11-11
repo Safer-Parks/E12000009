@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CORNW_1111_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 554903425, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "permissive", "access": null, "foot": "permissive", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -5.313313, 50.0809886 ], [ -5.3133264, 50.0809694 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1135409499, "highway": "path", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -5.3062361, 50.0833014 ], [ -5.3063215, 50.0834005 ], [ -5.3064841, 50.0835074 ], [ -5.3067036, 50.0836066 ], [ -5.3069516, 50.0837214 ], [ -5.3071305, 50.083797 ], [ -5.3072728, 50.0838674 ], [ -5.3070706, 50.0839607 ], [ -5.3071522, 50.0840183 ] ] } }
+]
+}

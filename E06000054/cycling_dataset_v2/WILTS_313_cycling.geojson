@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WILTS_313_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 920970959, "highway": "track", "name": "Claybush", "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0458446, 51.0914207 ], [ -2.0460172, 51.091523 ], [ -2.0461728, 51.0915811 ], [ -2.0463873, 51.0916569 ], [ -2.046677, 51.0917226 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 538011644, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.046677, 51.0917226 ], [ -2.0468916, 51.091758 ], [ -2.0469533, 51.0917656 ], [ -2.0470177, 51.0917917 ], [ -2.0470311, 51.0918557 ], [ -2.0471022, 51.0920941 ], [ -2.0471638, 51.0922086 ], [ -2.0472053, 51.0922662 ], [ -2.0472263, 51.0923138 ], [ -2.0472462, 51.0924963 ], [ -2.0472335, 51.092617 ], [ -2.0472276, 51.0926381 ], [ -2.0472136, 51.0926671 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 240445182, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0566896, 51.1179799 ], [ -2.0556844, 51.1157095 ], [ -2.0552392, 51.1147858 ], [ -2.0545601, 51.1139237 ], [ -2.0543488, 51.1134926 ], [ -2.0539414, 51.1120289 ], [ -2.0537527, 51.109954 ], [ -2.0534509, 51.1077985 ], [ -2.0526737, 51.1067136 ], [ -2.0519833, 51.1059935 ], [ -2.0518263, 51.105847 ] ] } }
+]
+}

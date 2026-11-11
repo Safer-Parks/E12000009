@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CORNW_1105_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1074541007, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "fine_gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -4.2006841, 50.3346936 ], [ -4.2005196, 50.3347158 ], [ -4.2001651, 50.3347846 ] ] } }
+]
+}

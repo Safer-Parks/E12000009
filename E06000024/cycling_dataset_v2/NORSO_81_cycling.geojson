@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NORSO_81_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 131249411, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8004922, 51.382261 ], [ -2.8008471, 51.3823082 ], [ -2.8010095, 51.3823375 ], [ -2.8011636, 51.3823652 ], [ -2.8016572, 51.3824254 ], [ -2.8020649, 51.3824388 ], [ -2.8024511, 51.3826129 ], [ -2.8028964, 51.3828372 ], [ -2.8037922, 51.3830548 ], [ -2.804157, 51.3830113 ], [ -2.8046612, 51.3828874 ], [ -2.8051548, 51.3830749 ], [ -2.8052153, 51.3831386 ], [ -2.805482, 51.3834198 ], [ -2.8055859, 51.3835971 ], [ -2.8057449, 51.3838684 ], [ -2.8059487, 51.3838584 ], [ -2.8060736, 51.3839616 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 39023296, "highway": "service", "name": "Station Approach", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8272935, 51.3907787 ], [ -2.827116, 51.390826 ], [ -2.8270324, 51.3908458 ], [ -2.8260238, 51.3913047 ], [ -2.8258419, 51.3913875 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 30985196, "highway": "secondary", "name": null, "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8259211, 51.3914787 ], [ -2.8258419, 51.3913875 ] ] } }
+]
+}

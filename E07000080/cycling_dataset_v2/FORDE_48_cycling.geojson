@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "FORDE_48_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 673114676, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": "private", "foot": "yes", "designatn": null, "segregatd": null, "surface": "grass" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.4696668, 51.7818737 ], [ -2.470162, 51.7817084 ], [ -2.4704876, 51.7816494 ], [ -2.4707933, 51.781674 ], [ -2.4711228, 51.7816617 ], [ -2.4722295, 51.7815182 ], [ -2.472429, 51.7814923 ], [ -2.4726878, 51.7815139 ], [ -2.4730789, 51.7816808 ], [ -2.4731912, 51.7817113 ], [ -2.4733441, 51.7817002 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1071302042, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.4684001, 51.7870653 ], [ -2.4685323, 51.7870534 ], [ -2.4688303, 51.7869383 ], [ -2.4693509, 51.786927 ], [ -2.4700766, 51.7868311 ], [ -2.4704944, 51.7868587 ], [ -2.4709412, 51.7866639 ], [ -2.4717613, 51.7866393 ], [ -2.4719322, 51.7866554 ], [ -2.4721543, 51.7866864 ], [ -2.4731927, 51.7869824 ], [ -2.4741439, 51.7872628 ], [ -2.4744814, 51.7873518 ], [ -2.4747929, 51.7873245 ], [ -2.4750405, 51.7872186 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1071302041, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.4597065, 51.7862436 ], [ -2.4596956, 51.7861717 ], [ -2.4596954, 51.7861131 ] ] } }
+]
+}

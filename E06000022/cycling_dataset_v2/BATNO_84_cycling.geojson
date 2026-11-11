@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BATNO_84_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 750416842, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway;public_footpath", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.4125075, 51.3683494 ], [ -2.4123707, 51.3683661 ], [ -2.4120596, 51.3684046 ], [ -2.4118236, 51.3684599 ], [ -2.4114615, 51.3686123 ], [ -2.4111879, 51.3687312 ], [ -2.4109497, 51.368785 ], [ -2.4105936, 51.3688343 ], [ -2.4103488, 51.3688198 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 693386725, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.4103488, 51.3688198 ], [ -2.4088792, 51.3686601 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 26348628, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.4009196, 51.3700549 ], [ -2.4010327, 51.3700241 ], [ -2.4010499, 51.369986 ], [ -2.4013202, 51.3693177 ], [ -2.4014728, 51.3689435 ], [ -2.4018643, 51.3679837 ], [ -2.4018555, 51.3679364 ] ] } }
+]
+}

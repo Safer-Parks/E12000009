@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WILTS_686_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 769245798, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5477536, 51.4337729 ], [ -1.5469283, 51.4355947 ], [ -1.5470785, 51.4360362 ], [ -1.5471429, 51.4370126 ], [ -1.5467996, 51.4386902 ], [ -1.5464777, 51.4396131 ], [ -1.5461129, 51.440536 ], [ -1.546306, 51.4416328 ], [ -1.5463919, 51.442569 ], [ -1.5463954, 51.4434725 ], [ -1.546306, 51.4437568 ], [ -1.5459198, 51.4445994 ], [ -1.5458769, 51.4454553 ], [ -1.5458125, 51.4465961 ], [ -1.5461344, 51.4475857 ], [ -1.546585, 51.4483212 ], [ -1.5467567, 51.4488593 ], [ -1.5465635, 51.4493675 ], [ -1.5462417, 51.4497286 ], [ -1.5460271, 51.4498623 ], [ -1.5460704, 51.4500645 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1080187132, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5477355, 51.4499874 ], [ -1.5473637, 51.449967 ], [ -1.5460704, 51.4500645 ] ] } }
+]
+}

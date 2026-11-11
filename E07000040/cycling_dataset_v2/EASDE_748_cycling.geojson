@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "EASDE_748_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 35100219, "highway": "track", "name": null, "category": "Track", "bicycle": "permissive", "access": "permissive", "foot": "permissive", "designatn": null, "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.429606, 50.7563066 ], [ -3.4294034, 50.7565807 ], [ -3.4288161, 50.7574497 ], [ -3.4284073, 50.757927 ], [ -3.4283714, 50.7579641 ], [ -3.4283196, 50.7580177 ] ] } }
+]
+}

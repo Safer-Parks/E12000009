@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NORDE_2_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1387652129, "highway": "secondary", "name": "Mill Hill", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -4.1161731, 51.0717639 ], [ -4.1164841, 51.0717697 ], [ -4.1165728, 51.0717743 ], [ -4.1170386, 51.0717984 ], [ -4.1181613, 51.0719635 ], [ -4.1182122, 51.071971 ] ] } }
+]
+}

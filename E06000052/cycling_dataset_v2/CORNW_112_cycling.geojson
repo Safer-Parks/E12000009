@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CORNW_112_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 72851368, "highway": "cycleway", "name": "Foxs Lane", "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_footpath", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -5.0679437, 50.1502671 ], [ -5.0674198, 50.1493093 ], [ -5.0672894, 50.1490723 ], [ -5.0669591, 50.1485324 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 216985421, "highway": "footway", "name": "Bucket-Top Lane", "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -5.079937, 50.1495339 ], [ -5.0798649, 50.1495643 ], [ -5.0788398, 50.1495087 ], [ -5.0778505, 50.1494289 ] ] } }
+]
+}

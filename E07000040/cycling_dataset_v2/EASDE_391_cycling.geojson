@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "EASDE_391_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12839205, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.2342604, 50.7559536 ], [ -3.2341164, 50.7564063 ], [ -3.2340387, 50.75657 ], [ -3.2339485, 50.7568738 ], [ -3.2337275, 50.7573149 ], [ -3.2336792, 50.7575559 ], [ -3.2336658, 50.7578172 ], [ -3.2336993, 50.7579292 ], [ -3.2337812, 50.7580887 ], [ -3.2338321, 50.7583126 ], [ -3.2338352, 50.7585826 ], [ -3.2339019, 50.7587657 ], [ -3.2339618, 50.7593823 ], [ -3.2340252, 50.7599025 ], [ -3.2339856, 50.7603016 ], [ -3.2339572, 50.7610938 ], [ -3.234036, 50.7616992 ], [ -3.2340221, 50.7620613 ], [ -3.23404, 50.7624593 ], [ -3.2340628, 50.7626179 ], [ -3.2340722, 50.7629047 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 286428295, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.2368744, 50.7616079 ], [ -3.2367082, 50.7615975 ], [ -3.2365197, 50.7615253 ], [ -3.2361839, 50.7613752 ], [ -3.2360699, 50.7613498 ], [ -3.2359792, 50.7613438 ], [ -3.2358974, 50.7613565 ], [ -3.2358352, 50.7613922 ], [ -3.2357982, 50.7615177 ], [ -3.2358043, 50.7616459 ], [ -3.2358808, 50.7618503 ], [ -3.2359344, 50.7621591 ] ] } }
+]
+}

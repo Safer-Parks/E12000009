@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DORSE_622_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 148006215, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3399946, 50.639977 ], [ -2.3398541, 50.6399333 ], [ -2.3398149, 50.6399343 ], [ -2.3396477, 50.6398731 ], [ -2.3394642, 50.6397551 ], [ -2.3392716, 50.6396356 ], [ -2.3386484, 50.6393906 ], [ -2.3378026, 50.6389894 ], [ -2.3362085, 50.6377152 ], [ -2.3357583, 50.6373679 ], [ -2.3354155, 50.6372171 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 151663366, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3399946, 50.639977 ], [ -2.3403988, 50.6400953 ], [ -2.3409264, 50.6403273 ], [ -2.3418105, 50.6406448 ], [ -2.3430395, 50.6411082 ], [ -2.343156, 50.6411639 ], [ -2.3440323, 50.6415118 ], [ -2.3442909, 50.6416673 ], [ -2.3444212, 50.6416965 ], [ -2.3445849, 50.6416689 ], [ -2.3446797, 50.6416663 ], [ -2.3448026, 50.6416629 ], [ -2.3450499, 50.6417383 ], [ -2.3458007, 50.6417847 ] ] } }
+]
+}

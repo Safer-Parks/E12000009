@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "EASDE_48_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 38286094, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_footpath", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.1869465, 50.7911016 ], [ -3.1868318, 50.7912519 ], [ -3.1867183, 50.7915024 ], [ -3.186529, 50.7918778 ], [ -3.1864858, 50.7920522 ], [ -3.1863406, 50.7922403 ], [ -3.1862631, 50.7923438 ], [ -3.1859995, 50.7925675 ], [ -3.1859225, 50.7927048 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 99522081, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.1806885, 50.7948167 ], [ -3.1806593, 50.7947283 ], [ -3.1807988, 50.7946673 ], [ -3.1809853, 50.7945971 ], [ -3.1812923, 50.7944909 ], [ -3.1816357, 50.7943485 ], [ -3.1818847, 50.7942403 ], [ -3.1820648, 50.7941383 ], [ -3.1822412, 50.7939966 ], [ -3.1823341, 50.7940466 ], [ -3.1824009, 50.7940836 ], [ -3.1826013, 50.7939213 ], [ -3.1827837, 50.7938263 ], [ -3.1829339, 50.7937788 ], [ -3.1832235, 50.7936907 ], [ -3.1834248, 50.793722 ] ] } }
+]
+}

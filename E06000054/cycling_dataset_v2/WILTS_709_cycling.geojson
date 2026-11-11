@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WILTS_709_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1278278647, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8798713, 51.4947797 ], [ -1.8796147, 51.4948828 ], [ -1.8777592, 51.4957256 ], [ -1.8765693, 51.496163 ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BATNO_50_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 45083375, "highway": "primary", "name": "Wellsway", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3734358, 51.3596783 ], [ -2.3735806, 51.3596126 ], [ -2.3736921, 51.3595619 ], [ -2.3739407, 51.3594547 ], [ -2.3750839, 51.3588988 ], [ -2.375279, 51.3587982 ] ] } }
+]
+}

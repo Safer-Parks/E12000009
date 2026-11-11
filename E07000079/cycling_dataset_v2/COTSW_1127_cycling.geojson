@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "COTSW_1127_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1279447686, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.854798, 51.5873316 ], [ -1.854244, 51.5874895 ], [ -1.8534635, 51.5876978 ], [ -1.8533334, 51.5877244 ], [ -1.8531, 51.5877461 ], [ -1.8528466, 51.5877594 ], [ -1.8525971, 51.5877553 ], [ -1.8520751, 51.5877246 ], [ -1.8498718, 51.5877089 ], [ -1.8487038, 51.5876935 ], [ -1.8482402, 51.5876747 ], [ -1.8479474, 51.5876628 ] ] } }
+]
+}

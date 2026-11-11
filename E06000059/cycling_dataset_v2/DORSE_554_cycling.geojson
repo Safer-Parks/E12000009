@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DORSE_554_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 585177556, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "permissive", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8269588, 50.9106551 ], [ -1.826876, 50.9105513 ], [ -1.8265082, 50.909861 ], [ -1.8265141, 50.9098347 ], [ -1.8265344, 50.909745 ], [ -1.8260264, 50.9089369 ], [ -1.8257987, 50.9085282 ], [ -1.8259359, 50.9084104 ], [ -1.8258535, 50.9080878 ], [ -1.82574, 50.9076975 ], [ -1.8257292, 50.9076768 ], [ -1.8256352, 50.9076022 ], [ -1.8255652, 50.9074715 ], [ -1.8255856, 50.9073427 ], [ -1.8255798, 50.9073224 ], [ -1.8256732, 50.9073021 ], [ -1.8256119, 50.9072009 ], [ -1.8258338, 50.9071641 ] ] } }
+]
+}

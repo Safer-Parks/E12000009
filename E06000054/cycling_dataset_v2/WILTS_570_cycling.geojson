@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WILTS_570_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 129716907, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": "yes", "foot": "yes", "designatn": null, "segregatd": null, "surface": "grass" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9674986, 51.6164789 ], [ -1.9681929, 51.6165574 ], [ -1.9682957, 51.616566 ], [ -1.9697326, 51.6165753 ], [ -1.9719971, 51.6168304 ], [ -1.9725348, 51.6170176 ], [ -1.9733072, 51.6172042 ], [ -1.9743673, 51.6175124 ], [ -1.9744886, 51.6175186 ] ] } }
+]
+}

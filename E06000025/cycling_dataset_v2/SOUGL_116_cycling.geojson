@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SOUGL_116_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 3994147, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3998303, 51.6293683 ], [ -2.3997017, 51.629192 ], [ -2.3996731, 51.629153 ], [ -2.3996567, 51.6291334 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 716772797, "highway": "secondary", "name": "Wotton Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.4130686, 51.6253531 ], [ -2.4128321, 51.6253911 ], [ -2.4125961, 51.6254411 ], [ -2.4121404, 51.6255878 ], [ -2.4116809, 51.6257955 ], [ -2.4114546, 51.6259097 ], [ -2.4106827, 51.62631 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 716772795, "highway": "secondary", "name": "Wotton Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.4101286, 51.6266134 ], [ -2.410213, 51.62654 ], [ -2.4105543, 51.6263542 ], [ -2.4106827, 51.62631 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 716772792, "highway": "secondary", "name": "Wotton Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.4101286, 51.6266134 ], [ -2.4100809, 51.6266418 ], [ -2.4098308, 51.6267664 ], [ -2.4095218, 51.6268847 ], [ -2.4092597, 51.6269735 ] ] } }
+]
+}

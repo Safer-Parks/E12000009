@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CORNW_1040_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1360446334, "highway": "residential", "name": "Bay View Road", "category": "Traffic-free road", "bicycle": "yes", "access": "private", "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -4.4493528, 50.3561938 ], [ -4.4493202, 50.3561562 ], [ -4.449207, 50.3560779 ], [ -4.4490536, 50.3560155 ], [ -4.4489175, 50.3559837 ], [ -4.4487353, 50.3559654 ], [ -4.4487106, 50.3559654 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 59459454, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -4.4476582, 50.3552101 ], [ -4.4468407, 50.3556716 ], [ -4.4463627, 50.3558854 ], [ -4.4459631, 50.3561274 ], [ -4.4456439, 50.3563003 ], [ -4.4455699, 50.3563703 ], [ -4.4452939, 50.3565621 ], [ -4.4451472, 50.356674 ], [ -4.4449984, 50.3568271 ], [ -4.4447945, 50.356976 ], [ -4.4444171, 50.3575091 ], [ -4.4443003, 50.3575868 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 187867258, "highway": "residential", "name": "Bay View Road", "category": "Traffic-free road", "bicycle": "yes", "access": "private", "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -4.4487106, 50.3559654 ], [ -4.4485397, 50.3559654 ], [ -4.4483844, 50.3559849 ], [ -4.4481677, 50.3560327 ], [ -4.4478034, 50.3561501 ], [ -4.4470786, 50.3563948 ], [ -4.4463365, 50.3566541 ], [ -4.4460163, 50.3568169 ], [ -4.4458724, 50.3569196 ], [ -4.4457114, 50.3570725 ], [ -4.445558, 50.357201 ], [ -4.4453528, 50.3573429 ], [ -4.4450252, 50.3575142 ], [ -4.4448481, 50.3576155 ], [ -4.4446431, 50.3577208 ], [ -4.4443552, 50.3578643 ] ] } }
+]
+}

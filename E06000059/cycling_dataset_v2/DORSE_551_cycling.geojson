@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DORSE_551_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 179087439, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": "yes", "foot": "yes", "designatn": "unclassified_highway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3092422, 51.013683 ], [ -2.3092722, 51.0135212 ], [ -2.3093841, 51.0132968 ], [ -2.3094877, 51.0131234 ], [ -2.3095764, 51.012942 ], [ -2.3096921, 51.0127606 ], [ -2.309788, 51.0126355 ], [ -2.3098192, 51.0125851 ], [ -2.309864, 51.0125126 ], [ -2.3098772, 51.0124236 ], [ -2.309869, 51.0123227 ], [ -2.3097852, 51.0120002 ], [ -2.3096798, 51.0116419 ], [ -2.3096167, 51.0113419 ], [ -2.3095947, 51.0111701 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 31141932, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3102854, 51.0155767 ], [ -2.3102552, 51.0155663 ], [ -2.3097652, 51.0152218 ], [ -2.3091564, 51.0147114 ], [ -2.3092422, 51.013683 ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "STROU_32_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 30184352, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.22983, 51.6911483 ], [ -2.229744, 51.6913332 ], [ -2.229728, 51.691591 ] ] } }
+]
+}

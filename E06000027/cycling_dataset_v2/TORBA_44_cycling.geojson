@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "TORBA_44_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 32267168, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.5245499, 50.4795163 ], [ -3.5250678, 50.4797361 ] ] } }
+]
+}

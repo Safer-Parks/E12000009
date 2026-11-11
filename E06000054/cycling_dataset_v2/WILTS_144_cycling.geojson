@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WILTS_144_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1216669620, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9540896, 51.5097793 ], [ -1.9541922, 51.5097639 ], [ -1.9542758, 51.5096281 ], [ -1.9541189, 51.5094551 ], [ -1.9544453, 51.5092104 ], [ -1.9543669, 51.5089735 ], [ -1.9538786, 51.5073324 ], [ -1.9539969, 51.5072171 ], [ -1.9539521, 51.5071352 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 222119929, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9539521, 51.5071352 ], [ -1.9539762, 51.507122 ], [ -1.9550012, 51.5065598 ], [ -1.9558789, 51.5060488 ], [ -1.9564501, 51.505678 ], [ -1.9566699, 51.505422 ], [ -1.9567078, 51.505166 ], [ -1.9567818, 51.5050522 ], [ -1.9573786, 51.504547 ], [ -1.9575826, 51.504371 ], [ -1.9581586, 51.5036577 ] ] } }
+]
+}

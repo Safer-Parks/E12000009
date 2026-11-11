@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NORDE_140_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 627018798, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -4.0906011, 51.1968176 ], [ -4.0906826, 51.1968451 ], [ -4.0907308, 51.1968434 ], [ -4.0908314, 51.1966871 ], [ -4.090877, 51.1966678 ], [ -4.0909494, 51.1966585 ], [ -4.0913196, 51.1967131 ], [ -4.0918171, 51.1967947 ], [ -4.0921846, 51.1968829 ], [ -4.0925593, 51.1969478 ], [ -4.0930762, 51.197051 ], [ -4.0938628, 51.1972705 ], [ -4.0942834, 51.1973981 ], [ -4.0946605, 51.1976065 ], [ -4.0948856, 51.1977746 ], [ -4.0951498, 51.1979863 ], [ -4.095263, 51.1981176 ], [ -4.0953033, 51.1981384 ], [ -4.0953396, 51.1981397 ] ] } }
+]
+}

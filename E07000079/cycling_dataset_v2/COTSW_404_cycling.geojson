@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "COTSW_404_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 18751789, "highway": "tertiary", "name": null, "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0687358, 52.0970574 ], [ -2.0684928, 52.0968919 ], [ -2.0671694, 52.0962342 ], [ -2.0666648, 52.096061 ], [ -2.0665405, 52.0960262 ], [ -2.065306, 52.0956803 ], [ -2.0651033, 52.0955844 ], [ -2.0648351, 52.09545 ], [ -2.0644636, 52.0951745 ], [ -2.0634722, 52.0941847 ], [ -2.0630211, 52.0937192 ], [ -2.0627462, 52.0935319 ], [ -2.0620839, 52.0931388 ], [ -2.0615032, 52.0926979 ], [ -2.061109, 52.0925015 ], [ -2.0608976, 52.0923961 ], [ -2.0603335, 52.092131 ], [ -2.0595929, 52.0916935 ], [ -2.0588661, 52.0911831 ], [ -2.0587402, 52.0910742 ], [ -2.0584582, 52.0908302 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 18751791, "highway": "tertiary", "name": "Goodleigh Hill", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0711613, 52.1019649 ], [ -2.0711831, 52.1018602 ], [ -2.0711966, 52.1017374 ], [ -2.0711895, 52.1016405 ], [ -2.0710645, 52.1012909 ], [ -2.0701711, 52.0997141 ], [ -2.0697123, 52.0989531 ], [ -2.0694553, 52.0985333 ], [ -2.0690024, 52.0976749 ], [ -2.0689795, 52.0976219 ], [ -2.0687358, 52.0970574 ] ] } }
+]
+}

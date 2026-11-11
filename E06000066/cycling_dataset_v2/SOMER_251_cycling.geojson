@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SOMER_251_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 430321858, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.094189, 51.064024 ], [ -3.0934845, 51.0641038 ], [ -3.0926464, 51.0640666 ], [ -3.0915306, 51.0639654 ], [ -3.0905114, 51.0639317 ], [ -3.0902485, 51.0638676 ], [ -3.0896393, 51.063863 ], [ -3.0885392, 51.0638319 ], [ -3.0879424, 51.0638134 ], [ -3.0857011, 51.0637559 ], [ -3.08557, 51.0637803 ] ] } }
+]
+}

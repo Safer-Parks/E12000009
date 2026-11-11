@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOMER_113_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 135984493, "highway": "track", "name": "Trindlewell Lane", "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7477413, 50.8860455 ], [ -2.7475591, 50.8860727 ], [ -2.7473973, 50.8860969 ], [ -2.7468184, 50.8861854 ], [ -2.7460275, 50.8863272 ], [ -2.7455316, 50.8864147 ], [ -2.7452701, 50.8864811 ], [ -2.7450899, 50.8865304 ], [ -2.74483, 50.8865858 ], [ -2.7445988, 50.8866602 ], [ -2.7444067, 50.8867411 ], [ -2.7443006, 50.886803 ], [ -2.7439705, 50.8869439 ], [ -2.7435878, 50.8871008 ], [ -2.7432657, 50.8871813 ], [ -2.7430042, 50.8872557 ], [ -2.7429719, 50.8872666 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 455503204, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7565015, 50.8894402 ], [ -2.7562266, 50.888233 ], [ -2.7560791, 50.8873036 ], [ -2.7558725, 50.8865219 ], [ -2.7555058, 50.8854843 ] ] } }
+]
+}

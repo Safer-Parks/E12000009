@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOMER_400_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 127653496, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7891451, 50.9457565 ], [ -2.7889993, 50.9457079 ], [ -2.7892249, 50.9456493 ], [ -2.7891133, 50.9456393 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 769778254, "highway": "footway", "name": "Hamsfield Lane", "category": "Shared path", "bicycle": "permissive", "access": null, "foot": "permissive", "designatn": null, "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7980646, 50.9521928 ], [ -2.7977625, 50.9520433 ], [ -2.7972315, 50.9518232 ], [ -2.7971348, 50.9517831 ], [ -2.7964964, 50.9513539 ], [ -2.7958634, 50.9508199 ], [ -2.7952304, 50.9501677 ], [ -2.7951386, 50.9500716 ], [ -2.7943681, 50.9492642 ], [ -2.7942899, 50.9491822 ], [ -2.7938858, 50.9487587 ], [ -2.7931276, 50.9479642 ], [ -2.793133, 50.9479135 ], [ -2.793192, 50.947883 ], [ -2.7933368, 50.9478391 ], [ -2.7937391, 50.9477242 ], [ -2.7937874, 50.9477073 ], [ -2.7938142, 50.9476836 ], [ -2.793825, 50.9476566 ], [ -2.7938089, 50.9476127 ], [ -2.7932571, 50.9466723 ] ] } }
+]
+}

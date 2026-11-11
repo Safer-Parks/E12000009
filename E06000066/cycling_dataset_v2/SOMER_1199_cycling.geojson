@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SOMER_1199_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 106336717, "highway": "unclassified", "name": null, "category": "Traffic-free road", "bicycle": "permissive", "access": "permissive", "foot": "permissive", "designatn": null, "segregatd": null, "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3719624, 51.2001857 ], [ -2.3720395, 51.2004404 ], [ -2.3720808, 51.200567 ], [ -2.3720949, 51.200606 ], [ -2.3721067, 51.2006228 ], [ -2.3721465, 51.2006321 ], [ -2.3721991, 51.2006286 ], [ -2.3729012, 51.2005561 ], [ -2.3730234, 51.2005488 ], [ -2.3731222, 51.2005654 ], [ -2.3734923, 51.2006899 ], [ -2.3739035, 51.2008297 ], [ -2.3741685, 51.2009274 ], [ -2.3744083, 51.2010545 ], [ -2.3745328, 51.2011336 ], [ -2.3746417, 51.2012122 ], [ -2.3747287, 51.201288 ], [ -2.3747986, 51.2013643 ], [ -2.3748443, 51.2014243 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 98661212, "highway": "unclassified", "name": "Ridgeway", "category": "Traffic-free road", "bicycle": "permissive", "access": "permissive", "foot": "permissive", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3751826, 51.2015593 ], [ -2.375135, 51.2015318 ], [ -2.3750645, 51.2015106 ], [ -2.3750147, 51.2015017 ], [ -2.3749625, 51.2015005 ], [ -2.3748956, 51.201503 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 106336710, "highway": "unclassified", "name": "Ridgeway", "category": "Traffic-free road", "bicycle": "permissive", "access": "permissive", "foot": "permissive", "designatn": "public_bridleway", "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3747307, 51.2015325 ], [ -2.374652, 51.201545 ], [ -2.3740614, 51.2016388 ], [ -2.3730664, 51.2017561 ], [ -2.3723332, 51.2018864 ], [ -2.3716714, 51.2019684 ], [ -2.3706383, 51.2020541 ], [ -2.3703328, 51.2020922 ], [ -2.3698, 51.2022052 ], [ -2.3691803, 51.2023732 ], [ -2.3690501, 51.2024249 ] ] } }
+]
+}

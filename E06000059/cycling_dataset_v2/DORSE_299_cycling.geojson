@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "DORSE_299_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 48505683, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "yes", "designatn": "public_footpath", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.4388786, 50.7190551 ], [ -2.4394096, 50.7181623 ], [ -2.4393515, 50.7180851 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 48392711, "highway": "path", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "yes", "designatn": "public_footpath", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.441735, 50.7196854 ], [ -2.4417035, 50.7195889 ], [ -2.4417001, 50.7195784 ], [ -2.4416367, 50.719473 ], [ -2.4416321, 50.7194711 ], [ -2.4415246, 50.7194256 ], [ -2.4414165, 50.7193838 ], [ -2.4413274, 50.7193353 ], [ -2.4411342, 50.7192192 ], [ -2.4409079, 50.7190712 ], [ -2.4407583, 50.7190062 ], [ -2.4406554, 50.7189683 ], [ -2.4404932, 50.7189495 ], [ -2.4402063, 50.7189485 ], [ -2.439787, 50.7189965 ], [ -2.4392884, 50.719079 ], [ -2.4391286, 50.7191184 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 48392704, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.4195151, 50.7176627 ], [ -2.4151589, 50.7171392 ], [ -2.4151126, 50.7171336 ], [ -2.41171, 50.7167248 ], [ -2.4092697, 50.7165603 ], [ -2.4087565, 50.7165604 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1027435810, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "grass" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.4228639, 50.7175963 ], [ -2.4196124, 50.7176608 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1027435811, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "wood" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.4196124, 50.7176608 ], [ -2.4195151, 50.7176627 ] ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BOUCH_145_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 140773280, "highway": "tertiary", "name": "Wimborne Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8801305, 50.7369944 ], [ -1.8800793, 50.7372276 ], [ -1.8800452, 50.7373833 ], [ -1.8799445, 50.7378424 ], [ -1.8798134, 50.7384401 ], [ -1.8796901, 50.739002 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 710062446, "highway": "residential", "name": "Privet Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.878925, 50.7442242 ], [ -1.8784961, 50.7442016 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 44709960, "highway": "residential", "name": "Privet Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8805478, 50.7446611 ], [ -1.8799625, 50.7444834 ], [ -1.879259, 50.744259 ], [ -1.8791707, 50.7442417 ], [ -1.8789725, 50.7442269 ], [ -1.878925, 50.7442242 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1025394496, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8759173, 50.7493725 ], [ -1.8759056, 50.7494123 ], [ -1.8758978, 50.749439 ] ] } }
+]
+}

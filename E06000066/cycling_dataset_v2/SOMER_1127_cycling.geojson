@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SOMER_1127_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 29473436, "highway": "track", "name": "Madwoman's Lane", "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8206194, 51.2149772 ], [ -2.8204546, 51.2165173 ], [ -2.8210989, 51.2189151 ], [ -2.8214722, 51.2200141 ], [ -2.822168, 51.2217028 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 456960251, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.815266, 51.2208636 ], [ -2.8155052, 51.2208707 ], [ -2.8156554, 51.2209077 ], [ -2.8157788, 51.2209816 ], [ -2.8160282, 51.2214083 ], [ -2.8163501, 51.2220013 ], [ -2.8165354, 51.222368 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 456960275, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8095085, 51.2239024 ], [ -2.8094186, 51.2235685 ], [ -2.809369, 51.2232981 ], [ -2.8093998, 51.2232519 ], [ -2.8095474, 51.2232275 ], [ -2.8103024, 51.2231822 ], [ -2.811034, 51.2231406 ] ] } }
+]
+}

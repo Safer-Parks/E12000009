@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TEIGN_20_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 561047962, "highway": "residential", "name": "Horse Lane", "category": "Traffic-free road", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.5027662, 50.5377994 ], [ -3.5028532, 50.5377567 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 723870346, "highway": "cycleway", "name": "Shaldon Bridge", "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.5104456, 50.5460763 ], [ -3.510376, 50.5460232 ], [ -3.509794, 50.5429414 ], [ -3.5098452, 50.5428125 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 723870345, "highway": "cycleway", "name": "Shaldon Bridge", "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.5098452, 50.5428125 ], [ -3.5099316, 50.5429328 ], [ -3.5105002, 50.5460094 ], [ -3.5104456, 50.5460763 ] ] } }
+]
+}

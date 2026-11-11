@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "PLYMO_66_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 950217530, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "metal" }, "geometry": { "type": "LineString", "coordinates": [ [ -4.182821, 50.4169347 ], [ -4.1828666, 50.4169093 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 931153683, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -4.1835266, 50.4267606 ], [ -4.1832215, 50.4266292 ], [ -4.1829224, 50.4264792 ] ] } }
+]
+}

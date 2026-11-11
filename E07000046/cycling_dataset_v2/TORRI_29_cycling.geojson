@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TORRI_29_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 713496639, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -4.4145163, 51.0006287 ], [ -4.4144573, 51.0005682 ], [ -4.4143321, 51.0004389 ], [ -4.4141374, 51.0003343 ], [ -4.4138864, 51.0002913 ], [ -4.413519, 51.0003548 ], [ -4.4133316, 51.0004259 ], [ -4.412612, 51.000699 ], [ -4.4122294, 51.0007592 ], [ -4.4119586, 51.0007458 ], [ -4.411649, 51.0007093 ], [ -4.4112404, 51.0005874 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 713496640, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -4.4145656, 51.0006791 ], [ -4.4145163, 51.0006287 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 56139975, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -4.4206892, 51.004573 ], [ -4.4205121, 51.0045052 ], [ -4.4197034, 51.0042734 ], [ -4.4184663, 51.0037501 ], [ -4.4182546, 51.0034331 ], [ -4.4180146, 51.0030619 ], [ -4.4176761, 51.0026665 ], [ -4.4173069, 51.0023306 ], [ -4.4170193, 51.002098 ], [ -4.4168423, 51.0019186 ], [ -4.4167332, 51.001808 ], [ -4.4165892, 51.001637 ], [ -4.416409, 51.001423 ], [ -4.4146599, 51.0007758 ], [ -4.4145656, 51.0006791 ] ] } }
+]
+}

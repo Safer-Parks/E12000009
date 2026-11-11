@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WILTS_66_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 148394643, "highway": "unclassified", "name": "Hawkeridge Road", "category": "Traffic-free road", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.194046, 51.272317 ], [ -2.1942599, 51.2723913 ] ] } }
+]
+}

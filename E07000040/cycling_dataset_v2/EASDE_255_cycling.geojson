@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "EASDE_255_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 166701505, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.2769148, 50.8410385 ], [ -3.2764947, 50.8414154 ], [ -3.2761592, 50.8416469 ], [ -3.2758905, 50.8418697 ], [ -3.2757416, 50.8420463 ], [ -3.2755504, 50.8423694 ], [ -3.2747457, 50.8431797 ], [ -3.2730433, 50.8439182 ], [ -3.2726718, 50.8440808 ], [ -3.2717505, 50.8444839 ], [ -3.2715673, 50.8445905 ], [ -3.2710708, 50.8449906 ], [ -3.2710013, 50.8450466 ], [ -3.2702243, 50.8456474 ], [ -3.269586, 50.8461677 ], [ -3.2688736, 50.846707 ], [ -3.2673678, 50.8473647 ], [ -3.2666597, 50.8476746 ], [ -3.2659132, 50.8480487 ], [ -3.2658282, 50.8479862 ], [ -3.2652302, 50.8473004 ], [ -3.2643074, 50.8467524 ], [ -3.2642671, 50.8466995 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 629428768, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.2862602, 50.8441337 ], [ -3.2858981, 50.8442827 ], [ -3.2856351, 50.8444478 ], [ -3.2855829, 50.8444806 ], [ -3.2850505, 50.844696 ], [ -3.284793, 50.8447976 ], [ -3.2844414, 50.8451139 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 196111554, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.2844414, 50.8451139 ], [ -3.2842928, 50.8452461 ], [ -3.283928, 50.8454798 ], [ -3.2836488, 50.8459827 ], [ -3.2833552, 50.8461297 ], [ -3.2830212, 50.8463841 ], [ -3.2823898, 50.8467587 ], [ -3.2819923, 50.8469979 ] ] } }
+]
+}

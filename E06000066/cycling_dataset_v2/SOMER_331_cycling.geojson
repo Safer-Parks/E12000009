@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SOMER_331_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 336621685, "highway": "path", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_footpath", "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.1923411, 51.0551109 ], [ -3.1923596, 51.055154 ], [ -3.1923246, 51.0551699 ], [ -3.1922713, 51.055195 ], [ -3.1921077, 51.0552655 ], [ -3.1920517, 51.0552958 ], [ -3.1919668, 51.0553543 ], [ -3.1919058, 51.0554014 ], [ -3.1918398, 51.0554472 ], [ -3.1917538, 51.0554469 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 483327915, "highway": "path", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_footpath", "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.1902984, 51.0553606 ], [ -3.1902435, 51.0553506 ], [ -3.1900972, 51.0553303 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 336621682, "highway": "path", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_footpath", "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.1914434, 51.0554426 ], [ -3.1913001, 51.0554391 ], [ -3.1911985, 51.0554333 ], [ -3.1910823, 51.0554255 ], [ -3.1910084, 51.0554116 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 336621673, "highway": "path", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_footpath", "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.1917538, 51.0554469 ], [ -3.1914434, 51.0554426 ] ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TEIGN_60_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 504769063, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.4779143, 50.5761699 ], [ -3.4778952, 50.5759882 ], [ -3.4778954, 50.5757857 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 163112863, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "wood" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.4744715, 50.5806925 ], [ -3.4744073, 50.5807966 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 35050029, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.4690162, 50.5811059 ], [ -3.468993, 50.5809919 ], [ -3.4688902, 50.5809416 ], [ -3.4688948, 50.5808403 ], [ -3.4690252, 50.5807822 ], [ -3.4690395, 50.5806746 ], [ -3.4690347, 50.5806294 ] ] } }
+]
+}

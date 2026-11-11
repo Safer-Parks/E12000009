@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WILTS_200_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 152183996, "highway": "track", "name": "Byway 12", "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8235688, 51.1912443 ], [ -1.8236092, 51.1911138 ], [ -1.8237696, 51.1906127 ], [ -1.8237667, 51.1904914 ], [ -1.8237235, 51.1903593 ], [ -1.8236983, 51.1902993 ], [ -1.8236849, 51.1902323 ], [ -1.8236603, 51.1901242 ], [ -1.823645, 51.1900299 ], [ -1.8236401, 51.1899334 ], [ -1.8236332, 51.1898114 ], [ -1.8236552, 51.1896888 ], [ -1.8236737, 51.1895391 ], [ -1.8237006, 51.1893796 ], [ -1.8237785, 51.1889214 ], [ -1.8238466, 51.1884952 ], [ -1.8239111, 51.1881786 ], [ -1.8239717, 51.1879173 ], [ -1.8240207, 51.1876696 ] ] } }
+]
+}

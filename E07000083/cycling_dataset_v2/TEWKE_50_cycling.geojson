@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "TEWKE_50_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 248096451, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0434904, 51.9441632 ], [ -2.0431814, 51.9442841 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 304960886, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "permissive", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0429603, 51.9481116 ], [ -2.044001, 51.9480006 ], [ -2.0440757, 51.9479926 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 248096249, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0411144, 51.9452476 ], [ -2.0404534, 51.9455834 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 248096250, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0404534, 51.9455834 ], [ -2.0404503, 51.9456165 ], [ -2.0400149, 51.9458481 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 304960889, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0379933, 51.9473252 ], [ -2.0368955, 51.9463212 ], [ -2.0359352, 51.9460732 ], [ -2.034739, 51.9458946 ], [ -2.0337197, 51.9458252 ], [ -2.0325503, 51.9456896 ], [ -2.0324805, 51.944648 ] ] } }
+]
+}

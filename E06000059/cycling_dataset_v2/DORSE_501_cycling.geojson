@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DORSE_501_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 305783141, "highway": "track", "name": "Partway Lane", "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.9117638, 50.8324073 ], [ -2.9117882, 50.8325938 ] ] } }
+]
+}

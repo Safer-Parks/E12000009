@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "SOUGL_162_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 22698970, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "grass" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.5470296, 51.5630861 ], [ -2.5466297, 51.5630743 ], [ -2.5448989, 51.5628314 ], [ -2.5448189, 51.5628206 ], [ -2.5428597, 51.5625555 ], [ -2.5411147, 51.562076 ], [ -2.5409371, 51.5620272 ], [ -2.5375725, 51.5616164 ], [ -2.5367455, 51.5614135 ], [ -2.5359847, 51.5612268 ], [ -2.535309, 51.5610723 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1051691050, "highway": "primary", "name": "Gloucester Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.558985, 51.5602634 ], [ -2.5586701, 51.5604209 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 310596651, "highway": "primary", "name": "Gloucester Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.5586701, 51.5604209 ], [ -2.5585341, 51.5604947 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 4986674, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "grass" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.5479313, 51.563099 ], [ -2.5470296, 51.5630861 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1051691592, "highway": "primary", "name": "Gloucester Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.5518487, 51.567336 ], [ -2.5515378, 51.5676921 ], [ -2.5512591, 51.5679838 ], [ -2.5508529, 51.5684459 ], [ -2.5506996, 51.5686045 ], [ -2.5496912, 51.5697557 ], [ -2.5490965, 51.5704236 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 3403711, "highway": "primary", "name": "Gloucester Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.5490965, 51.5704236 ], [ -2.5482659, 51.5713147 ] ] } }
+]
+}

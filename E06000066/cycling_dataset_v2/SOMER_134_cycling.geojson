@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SOMER_134_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 28383309, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.9479877, 51.2712798 ], [ -2.9478316, 51.2711706 ], [ -2.9477275, 51.2710921 ], [ -2.9476571, 51.2710117 ], [ -2.9475898, 51.2708431 ], [ -2.9475771, 51.2706975 ], [ -2.9476234, 51.2703931 ], [ -2.9476295, 51.2700791 ], [ -2.9476081, 51.2699374 ], [ -2.947659, 51.2695214 ], [ -2.9477018, 51.2692293 ], [ -2.9478252, 51.2689732 ], [ -2.9479466, 51.2687366 ], [ -2.9480354, 51.2684277 ], [ -2.9480446, 51.2682292 ], [ -2.9480563, 51.2680319 ], [ -2.9481954, 51.2677978 ], [ -2.9483473, 51.2675455 ] ] } }
+]
+}

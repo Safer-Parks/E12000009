@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "COTSW_908_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1351264526, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9607535, 52.0865833 ], [ -1.9604801, 52.0864649 ], [ -1.9605139, 52.0864262 ], [ -1.9605552, 52.0863941 ], [ -1.9610011, 52.0865577 ], [ -1.9616227, 52.086722 ], [ -1.9619267, 52.0867856 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 455961257, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9574979, 52.0874103 ], [ -1.9569346, 52.0871849 ], [ -1.9564803, 52.086958 ], [ -1.9559356, 52.086711 ], [ -1.9556146, 52.0865825 ], [ -1.9552573, 52.0864887 ], [ -1.954941, 52.0864647 ], [ -1.9546292, 52.086472 ], [ -1.9534554, 52.0865375 ], [ -1.9523539, 52.0866114 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 79393947, "highway": "service", "name": "Abbey Lane", "category": "Traffic-free road", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9525249, 52.0893744 ], [ -1.9525173, 52.0889771 ], [ -1.9525068, 52.0888368 ], [ -1.952484, 52.0885333 ], [ -1.9524941, 52.0883178 ], [ -1.9524975, 52.0882448 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 79397305, "highway": "service", "name": "Abbey Lane", "category": "Traffic-free road", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9513644, 52.0895444 ], [ -1.9513745, 52.0895217 ], [ -1.9513831, 52.0895034 ], [ -1.9514605, 52.0893531 ], [ -1.9515275, 52.0892846 ], [ -1.951592, 52.0892683 ], [ -1.9518057, 52.0892714 ], [ -1.9525249, 52.0893744 ] ] } }
+]
+}

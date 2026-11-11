@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "TEWKE_51_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 729115687, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": "yes", "designatn": null, "segregatd": "yes", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0663592, 51.9432938 ], [ -2.0662814, 51.9432409 ], [ -2.066217, 51.9431681 ], [ -2.0661661, 51.9430855 ], [ -2.0661607, 51.9430011 ], [ -2.0661929, 51.9429565 ], [ -2.06626, 51.9428953 ], [ -2.066378, 51.9428656 ], [ -2.0665282, 51.9428738 ], [ -2.0666864, 51.9428887 ], [ -2.0668581, 51.9429003 ], [ -2.0669761, 51.9428854 ], [ -2.0670318, 51.942867 ], [ -2.0670914, 51.9428474 ], [ -2.0671773, 51.9427878 ], [ -2.0672095, 51.9427415 ], [ -2.0672255, 51.9426605 ], [ -2.067241, 51.9425686 ], [ -2.067253, 51.9424805 ], [ -2.0672591, 51.9423871 ], [ -2.0672947, 51.9421134 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 686875627, "highway": "tertiary", "name": "Cheltenham Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0646466, 51.9426068 ], [ -2.064529, 51.9430809 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 729115688, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0663592, 51.9432938 ], [ -2.0662813, 51.9433309 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 248096451, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0434904, 51.9441632 ], [ -2.0431814, 51.9442841 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 304960886, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "permissive", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0429603, 51.9481116 ], [ -2.044001, 51.9480006 ], [ -2.0440757, 51.9479926 ] ] } }
+]
+}

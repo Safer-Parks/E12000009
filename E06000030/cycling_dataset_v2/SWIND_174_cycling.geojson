@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SWIND_174_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 39177214, "highway": "track", "name": null, "category": "Track", "bicycle": "permissive", "access": null, "foot": "permissive", "designatn": null, "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7791395, 51.5032725 ], [ -1.7791991, 51.503283 ], [ -1.7794408, 51.5033254 ], [ -1.7797565, 51.5033782 ], [ -1.7803952, 51.5034749 ], [ -1.7826875, 51.5037873 ], [ -1.7849132, 51.5040997 ], [ -1.7879714, 51.5044977 ], [ -1.7895011, 51.504725 ], [ -1.7895877, 51.504737 ], [ -1.7903791, 51.5048342 ], [ -1.7905869, 51.5048531 ], [ -1.7906186, 51.504856 ], [ -1.7906933, 51.5048627 ], [ -1.7907419, 51.5048672 ], [ -1.7908077, 51.5048732 ] ] } }
+]
+}

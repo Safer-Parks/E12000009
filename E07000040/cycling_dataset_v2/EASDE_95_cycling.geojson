@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "EASDE_95_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 85170254, "highway": "track", "name": "Larkshayes Droveway", "category": "Track", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.0862613, 50.7922721 ], [ -3.0862784, 50.7923557 ], [ -3.087497, 50.7934956 ], [ -3.0885377, 50.7941263 ], [ -3.0904582, 50.7953877 ], [ -3.0930975, 50.7969474 ] ] } }
+]
+}

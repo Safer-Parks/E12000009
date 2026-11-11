@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SOMER_398_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1095444270, "highway": "track", "name": "Long Lane", "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8070986, 50.9362674 ], [ -2.8071233, 50.9362356 ], [ -2.8072696, 50.9361105 ], [ -2.807781, 50.9358396 ], [ -2.8081789, 50.9356288 ], [ -2.8088219, 50.9353064 ], [ -2.8093236, 50.9350549 ], [ -2.8094529, 50.9349866 ], [ -2.8099049, 50.9347635 ], [ -2.8099618, 50.9347427 ], [ -2.8100847, 50.9346976 ] ] } }
+]
+}

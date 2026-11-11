@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "COTSW_868_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 148471647, "highway": "track", "name": "Mill Lane", "category": "Track", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7467615, 51.9239245 ], [ -1.7469812, 51.9243035 ], [ -1.7470756, 51.924395 ], [ -1.7471613, 51.9244367 ], [ -1.7474427, 51.924535 ], [ -1.7475247, 51.9245637 ], [ -1.7475523, 51.9245733 ], [ -1.7478497, 51.9247286 ], [ -1.7480477, 51.9248831 ], [ -1.7481838, 51.9250359 ], [ -1.7482402, 51.9251844 ], [ -1.7482485, 51.9252597 ] ] } }
+]
+}

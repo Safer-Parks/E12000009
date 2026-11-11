@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "TORBA_9_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 29321134, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.5201725, 50.4626535 ], [ -3.5200543, 50.4626859 ], [ -3.5200137, 50.4627375 ], [ -3.5200133, 50.4627508 ], [ -3.5199833, 50.4627824 ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NORDE_100_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 78627819, "highway": "path", "name": "Tarka Trail", "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -4.1293556, 51.0772306 ], [ -4.1297687, 51.0771516 ], [ -4.1335329, 51.076432 ], [ -4.1371481, 51.0757217 ], [ -4.1427489, 51.0746695 ], [ -4.1494046, 51.0733417 ], [ -4.1506733, 51.0730924 ], [ -4.1520739, 51.0728171 ], [ -4.1532736, 51.0725868 ], [ -4.1548934, 51.0722733 ], [ -4.1557273, 51.0721104 ], [ -4.1574997, 51.0717642 ], [ -4.1613453, 51.0710129 ] ] } }
+]
+}

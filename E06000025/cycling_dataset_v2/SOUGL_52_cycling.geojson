@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SOUGL_52_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1193638381, "highway": "primary", "name": null, "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.4573439, 51.6395992 ], [ -2.4574629, 51.6393924 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 77402828, "highway": "primary", "name": null, "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.4572281, 51.6400775 ], [ -2.4572404, 51.6398585 ], [ -2.4573439, 51.6395992 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1193638382, "highway": "primary", "name": "Bristol Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.4572281, 51.6400775 ], [ -2.4570759, 51.6403789 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1051695010, "highway": "primary", "name": "Bristol Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.4557059, 51.6434825 ], [ -2.4554163, 51.6445334 ], [ -2.4552242, 51.6452834 ], [ -2.4551468, 51.6459044 ], [ -2.4551461, 51.6461088 ], [ -2.4551452, 51.6463698 ], [ -2.4551553, 51.6464349 ], [ -2.4552507, 51.6470472 ], [ -2.4555776, 51.648 ], [ -2.4557301, 51.6483075 ], [ -2.4557409, 51.648326 ], [ -2.4561204, 51.6489772 ], [ -2.4567041, 51.6498081 ] ] } }
+]
+}

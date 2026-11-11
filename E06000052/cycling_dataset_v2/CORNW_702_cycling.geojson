@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CORNW_702_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 361917718, "highway": "residential", "name": "Garden Walk", "category": "Traffic-free road", "bicycle": "yes", "access": "private", "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -4.7662219, 50.3285094 ], [ -4.7663577, 50.3283113 ], [ -4.7664424, 50.3281715 ], [ -4.7665535, 50.3280151 ], [ -4.7666661, 50.3278832 ], [ -4.7667386, 50.3278302 ], [ -4.7668029, 50.3277993 ], [ -4.7668888, 50.3277754 ], [ -4.766988, 50.3277651 ], [ -4.7670872, 50.3277668 ], [ -4.7671623, 50.3277719 ], [ -4.7673005, 50.3277831 ] ] } }
+]
+}

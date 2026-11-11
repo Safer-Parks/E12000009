@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NORDE_139_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1275532511, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -4.0697895, 51.1308979 ], [ -4.0704033, 51.1310365 ], [ -4.0708519, 51.1311423 ], [ -4.071005, 51.1312021 ] ] } }
+]
+}

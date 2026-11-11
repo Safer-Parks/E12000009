@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOUHA_29_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 33102685, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.7878787, 50.5166524 ], [ -3.7879842, 50.5166401 ], [ -3.7880258, 50.5166436 ], [ -3.7881841, 50.5165712 ], [ -3.7881633, 50.5165474 ], [ -3.788638, 50.5162958 ], [ -3.7891498, 50.5166952 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 33102684, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.7871818, 50.5167213 ], [ -3.7873248, 50.5166983 ], [ -3.7875441, 50.5166877 ], [ -3.7876635, 50.5167098 ], [ -3.7877107, 50.516716 ], [ -3.7877815, 50.5166957 ], [ -3.787812, 50.5166842 ] ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "TEIGN_46_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 46371812, "highway": "footway", "name": "Football Lane", "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.5950571, 50.551297 ], [ -3.5950449, 50.5515103 ], [ -3.5951307, 50.5516944 ], [ -3.5953882, 50.551967 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 727430073, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.5850522, 50.5438567 ], [ -3.585156, 50.5437085 ], [ -3.5853568, 50.5434858 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 43126787, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.5836492, 50.5495181 ], [ -3.5834582, 50.5491955 ], [ -3.5833434, 50.5489308 ], [ -3.583309, 50.5488381 ], [ -3.5834206, 50.5487781 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 43126769, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.5820824, 50.5490516 ], [ -3.5823479, 50.5490206 ], [ -3.5823735, 50.5490944 ], [ -3.5824765, 50.5493398 ], [ -3.5826299, 50.5497041 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 43126786, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.5826299, 50.5497041 ], [ -3.5836492, 50.5495181 ] ] } }
+]
+}

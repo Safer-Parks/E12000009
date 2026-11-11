@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MIDDE_140_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 447708481, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.2855433, 50.8725674 ], [ -3.2854996, 50.8725654 ], [ -3.2854598, 50.8725504 ], [ -3.2854113, 50.8725256 ], [ -3.2853008, 50.8724471 ], [ -3.2852126, 50.8723928 ], [ -3.2849595, 50.8721684 ], [ -3.2847565, 50.8719734 ], [ -3.2842469, 50.8714233 ], [ -3.2840813, 50.8711901 ], [ -3.2839626, 50.8710297 ], [ -3.2839933, 50.8709876 ] ] } }
+]
+}

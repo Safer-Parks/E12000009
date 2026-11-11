@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOMER_1274_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 104548292, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7667532, 50.9731586 ], [ -2.7664981, 50.9731954 ], [ -2.7661733, 50.9732214 ], [ -2.7659532, 50.9732274 ], [ -2.765744, 50.9732106 ], [ -2.7655739, 50.9731858 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 512049508, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7742839, 50.9735417 ], [ -2.7741978, 50.9735458 ], [ -2.7734618, 50.9735806 ], [ -2.7733915, 50.9735823 ], [ -2.7732834, 50.9735848 ], [ -2.7730516, 50.9735818 ], [ -2.7729562, 50.9735806 ], [ -2.7725512, 50.9735789 ], [ -2.772004, 50.9735578 ], [ -2.7718589, 50.9735575 ], [ -2.7710961, 50.9735561 ], [ -2.7709563, 50.9735581 ], [ -2.7705558, 50.9735638 ], [ -2.7703223, 50.9735671 ], [ -2.7701309, 50.9735652 ], [ -2.7699768, 50.9735637 ], [ -2.7696249, 50.9735603 ], [ -2.7693868, 50.9735603 ], [ -2.7692239, 50.9735603 ], [ -2.7686821, 50.9735916 ], [ -2.7683383, 50.9736057 ] ] } }
+]
+}

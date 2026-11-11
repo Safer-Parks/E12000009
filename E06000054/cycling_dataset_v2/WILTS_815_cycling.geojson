@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WILTS_815_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 81814369, "highway": "track", "name": "Red Lane", "category": "Track", "bicycle": "yes", "access": "yes", "foot": "yes", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6627913, 51.1047994 ], [ -1.6618645, 51.1043236 ], [ -1.6607372, 51.1041345 ], [ -1.6600514, 51.1040744 ], [ -1.6589133, 51.1038313 ], [ -1.6581631, 51.1037443 ], [ -1.6574764, 51.103751 ], [ -1.6567998, 51.1035214 ], [ -1.6561461, 51.1030908 ], [ -1.6555745, 51.1023554 ], [ -1.6551805, 51.1019455 ], [ -1.654536, 51.1015003 ], [ -1.6532064, 51.1008069 ], [ -1.652401, 51.1001057 ], [ -1.652342, 51.1000236 ], [ -1.6517043, 51.0991361 ], [ -1.6515434, 51.0985297 ], [ -1.6513467, 51.0981849 ] ] } }
+]
+}

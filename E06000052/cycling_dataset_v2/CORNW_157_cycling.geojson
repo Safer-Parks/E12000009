@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CORNW_157_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 30664494, "highway": "residential", "name": "Wesley Place", "category": "Traffic-free road", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -5.4827406, 50.2110993 ], [ -5.4827668, 50.211125 ], [ -5.4829464, 50.2113287 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 31987575, "highway": "pedestrian", "name": "Tregenna Place", "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -5.4811876, 50.2120592 ], [ -5.480838, 50.2114242 ] ] } }
+]
+}
