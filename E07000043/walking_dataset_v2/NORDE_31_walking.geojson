@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NORDE_31_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 391246720, "highway": "footway", "name": null, "category": "Footpath (pedestrian only)", "foot": "designated", "access": null, "designatn": "public_footpath", "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.6565645, 50.9811997 ], [ -3.656501, 50.9813083 ], [ -3.6565192, 50.9813808 ], [ -3.6566169, 50.9814833 ], [ -3.6566985, 50.9815556 ], [ -3.6567697, 50.9816727 ], [ -3.6568481, 50.9817317 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 391246726, "highway": "track", "name": null, "category": "Track", "foot": "designated", "access": null, "designatn": "public_footpath", "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.6608003, 50.9851669 ], [ -3.6601694, 50.9846098 ], [ -3.6588068, 50.9833164 ], [ -3.6578734, 50.9826342 ], [ -3.657396, 50.9822627 ], [ -3.6568481, 50.9817317 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 310926958, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.6572607, 50.985802 ], [ -3.6571198, 50.9857883 ], [ -3.6570425, 50.9857946 ], [ -3.6569995, 50.9858117 ], [ -3.6569464, 50.9858654 ] ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "COTSW_949_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 188554455, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6968228, 51.96797 ], [ -1.6962297, 51.9660801 ], [ -1.6982235, 51.9658965 ], [ -1.7004577, 51.9657381 ], [ -1.7003761, 51.9655269 ], [ -1.7008332, 51.9654666 ], [ -1.700907, 51.9650233 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 157858463, "highway": "bridleway", "name": null, "category": "Bridleway", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7100351, 51.9666231 ], [ -1.7097267, 51.9666321 ], [ -1.709445, 51.9668329 ], [ -1.7048204, 51.9676188 ], [ -1.7027087, 51.9679979 ], [ -1.6974468, 51.9679732 ], [ -1.6968228, 51.96797 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1304810746, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7109894, 51.9634497 ], [ -1.7111697, 51.9634808 ], [ -1.7113068, 51.963548 ], [ -1.7116351, 51.963611 ] ] } }
+]
+}
